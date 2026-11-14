@@ -2,7 +2,6 @@
   const brl = (v) => v.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
   const fmtData = (iso) => { const [a, m, d] = iso.split('-'); return `${d}/${m}/${a}`; };
-  const hoje = new Date().toISOString().slice(0, 10);
 
   document.getElementById('ano').textContent = new Date().getFullYear();
 
@@ -11,7 +10,6 @@
     .then((dados) => {
       document.getElementById('data-atualizacao').textContent = fmtData(dados.atualizado);
       ligarLinks(dados.links || {});
-      montarCupons((dados.cupons || []).filter((c) => !c.validade || c.validade >= hoje));
       montarOfertas(dados.ofertas || []);
     })
     .catch(() => {
@@ -31,25 +29,6 @@
       .map(([nome, url]) => `<a href="${esc(url)}" target="_blank" rel="noopener">${nome}</a>`).join('');
   }
 
-  function montarCupons(cupons) {
-    const box = document.getElementById('lista-cupons');
-    if (!cupons.length) {
-      document.getElementById('cupons').hidden = true;
-      return;
-    }
-    box.innerHTML = cupons.map((c) => `
-      <button class="cupom" type="button" data-codigo="${esc(c.codigo)}">
-        <code>${esc(c.codigo)}</code>
-        <span>${esc(c.descricao)}</span>
-        <small>Toque para copiar</small>
-      </button>`).join('');
-    box.addEventListener('click', (e) => {
-      const btn = e.target.closest('.cupom');
-      if (!btn) return;
-      const done = () => { btn.classList.add('copied'); btn.querySelector('small').textContent = 'Copiado!'; };
-      if (navigator.clipboard) navigator.clipboard.writeText(btn.dataset.codigo).then(done, done); else done();
-    });
-  }
 
   function montarOfertas(ofertas) {
     const lista = document.getElementById('lista-ofertas');

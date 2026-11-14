@@ -7,36 +7,14 @@
     "tiktok": "https://www.tiktok.com/@radar.do.hardware",
     "x": "https://x.com/radardohardware"
   },
-  "cupons": [
-    {
-      "codigo": "TODO141126SITE",
-      "descricao": "R$ 100 OFF acima de R$ 999",
-      "validade": "2026-11-14"
-    },
-    {
-      "codigo": "STTODO1411",
-      "descricao": "R$ 40 OFF acima de R$ 399",
-      "validade": "2026-11-14"
-    },
-    {
-      "codigo": "TODOST1411",
-      "descricao": "R$ 20 OFF acima de R$ 119",
-      "validade": "2026-11-14"
-    },
-    {
-      "codigo": "MELIMAIS1411",
-      "descricao": "20% OFF acima de R$ 299 (limite R$ 80) — exclusivo Meli+",
-      "validade": "2026-11-14"
-    }
-  ],
   "ofertas": [
     {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
       "categoria": "Processadores",
-      "preco": 1159.0,
+      "preco": 1177.0,
       "preco_antigo": 1792.58,
       "loja": "Terabyte (loja oficial)",
-      "obs": "Preço com cupom da loja — ative na página do produto.",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_766425-MLA91568651122_092025-O.webp",
       "link": "https://meli.la/1eDrVjX",
       "destaque": true
@@ -55,10 +33,10 @@
     {
       "titulo": "Memória Crucial Basics 8GB DDR4 3200MHz",
       "categoria": "Memórias",
-      "preco": 516.4,
+      "preco": 534.4,
       "preco_antigo": 846.48,
       "loja": "Terabyte (loja oficial)",
-      "obs": "Preço com cupom da loja — ative na página do produto.",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_676225-MLB111923736428_062026-O.webp",
       "link": "https://meli.la/1FZ4Uxj",
       "destaque": false
@@ -66,10 +44,10 @@
     {
       "titulo": "SSD Adata Legend 710 256GB NVMe M.2",
       "categoria": "Armazenamento",
-      "preco": 581.48,
+      "preco": 599.48,
       "preco_antigo": 768.05,
       "loja": "Terabyte (loja oficial)",
-      "obs": "Preço com cupom da loja — ative na página do produto.",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_740741-MLB111184574060_052026-O-ssd-adata-legend-710-256gb-m2-2280-nvme-leitura-2100mbs.webp",
       "link": "https://meli.la/1KAkhaY",
       "destaque": false
