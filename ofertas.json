@@ -1,23 +1,39 @@
 {
   "atualizado": "2026-11-14",
   "links": {
-    "whatsapp": "",
-    "telegram": "",
+    "whatsapp": "https://chat.whatsapp.com/CHeaeWX6i3b5tLQquJDWIB",
+    "telegram": "https://t.me/radardohardware",
     "instagram": "https://www.instagram.com/radardohardware/",
-    "tiktok": "https://www.tiktok.com/@radardohardware",
+    "tiktok": "https://www.tiktok.com/@radar.do.hardware",
     "x": "https://x.com/radardohardware"
   },
   "cupons": [
-    { "codigo": "TODO141126SITE", "descricao": "R$ 100 OFF acima de R$ 999", "validade": "2026-11-14" },
-    { "codigo": "STTODO1411", "descricao": "R$ 40 OFF acima de R$ 399", "validade": "2026-11-14" },
-    { "codigo": "TODOST1411", "descricao": "R$ 20 OFF acima de R$ 119", "validade": "2026-11-14" },
-    { "codigo": "MELIMAIS1411", "descricao": "20% OFF acima de R$ 299 (limite R$ 80) — exclusivo Meli+", "validade": "2026-11-14" }
+    {
+      "codigo": "TODO141126SITE",
+      "descricao": "R$ 100 OFF acima de R$ 999",
+      "validade": "2026-11-14"
+    },
+    {
+      "codigo": "STTODO1411",
+      "descricao": "R$ 40 OFF acima de R$ 399",
+      "validade": "2026-11-14"
+    },
+    {
+      "codigo": "TODOST1411",
+      "descricao": "R$ 20 OFF acima de R$ 119",
+      "validade": "2026-11-14"
+    },
+    {
+      "codigo": "MELIMAIS1411",
+      "descricao": "20% OFF acima de R$ 299 (limite R$ 80) — exclusivo Meli+",
+      "validade": "2026-11-14"
+    }
   ],
   "ofertas": [
     {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
       "categoria": "Processadores",
-      "preco": 1159.00,
+      "preco": 1159.0,
       "preco_antigo": 1792.58,
       "loja": "Terabyte (loja oficial)",
       "obs": "Preço com cupom da loja — ative na página do produto.",
@@ -28,8 +44,8 @@
     {
       "titulo": "Placa-mãe MSI PRO H610M-G DDR4 (VGA, HDMI e DisplayPort)",
       "categoria": "Placas-mãe",
-      "preco": 549.00,
-      "preco_antigo": 799.00,
+      "preco": 549.0,
+      "preco_antigo": 799.0,
       "loja": "Login (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_606943-MLA91961121555_092025-O.webp",
@@ -39,7 +55,7 @@
     {
       "titulo": "Memória Crucial Basics 8GB DDR4 3200MHz",
       "categoria": "Memórias",
-      "preco": 516.40,
+      "preco": 516.4,
       "preco_antigo": 846.48,
       "loja": "Terabyte (loja oficial)",
       "obs": "Preço com cupom da loja — ative na página do produto.",
@@ -61,7 +77,7 @@
     {
       "titulo": "Memória Kingston Fury Beast 8GB DDR4 3200MHz",
       "categoria": "Memórias",
-      "preco": 650.00,
+      "preco": 650.0,
       "preco_antigo": 0,
       "loja": "TOP SYSTEM (loja oficial)",
       "obs": "",
