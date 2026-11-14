@@ -52,7 +52,7 @@
             </div>
             <div class="store">Vendido por ${esc(o.loja)}</div>
             ${o.obs ? `<div class="note">${esc(o.obs)}</div>` : ''}
-            <a class="btn btn-green" href="${esc(o.link)}" target="_blank" rel="noopener sponsored">Ver no Mercado Livre</a>
+            <a class="btn btn-green" href="${esc(o.link)}" target="_blank" rel="noopener sponsored">Ver oferta</a>
           </div>
         </article>`;
       }).join('') || '<p class="muted">Nenhuma oferta nessa categoria agora.</p>';
