@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar do Hardware — Ofertas de hardware e tecnologia filtradas</title>
+<meta name="description" content="Ofertas de processadores, placas-mãe, memórias, SSDs, periféricos e setup — escolhidas a dedo, só de lojas confiáveis.">
+<link rel="canonical" href="https://radardohardware.com.br/">
+<link rel="icon" href="img/favicon.svg" type="image/svg+xml">
+<meta property="og:title" content="Radar do Hardware">
+<meta property="og:description" content="Ofertas de hardware e tecnologia filtradas — só lojas confiáveis.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://radardohardware.com.br/">
+<meta name="theme-color" content="#060b14">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <a class="brand" href="./" aria-label="Radar do Hardware — início">
+      <img src="img/favicon.svg" alt="" width="32" height="32">
+      <span>Radar <em>do</em> Hardware</span>
+    </a>
+    <nav class="topnav">
+      <a href="#ofertas">Ofertas</a>
+      <a href="#cupons">Cupons</a>
+      <a href="#como-funciona">Como funciona</a>
+      <a class="btn btn-sm btn-green js-whats" href="#participe">Entrar no grupo</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-text">
+        <p class="tag"><span class="dot"></span> Rastreando ofertas agora</p>
+        <h1>As melhores ofertas de <span>hardware</span>, filtradas por quem entende.</h1>
+        <p class="lead">Processadores, placas-mãe, memórias, SSDs, periféricos e setup. A gente confere a peça, o vendedor e o preço antes de postar — só loja confiável, nada de anúncio suspeito.</p>
+        <div class="hero-cta">
+          <a class="btn btn-green js-whats" href="#participe">Entrar no grupo do WhatsApp</a>
+          <a class="btn btn-ghost js-tele" href="#participe">Canal no Telegram</a>
+        </div>
+      </div>
+      <div class="radar" aria-hidden="true">
+        <div class="radar-ring r1"></div>
+        <div class="radar-ring r2"></div>
+        <div class="radar-ring r3"></div>
+        <div class="radar-sweep"></div>
+        <div class="blip b1"></div>
+        <div class="blip b2"></div>
+        <div class="blip b3"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="ofertas" class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Ofertas no radar</h2>
+        <p class="muted">Preços conferidos em <span id="data-atualizacao">—</span>. Podem mudar a qualquer momento — confira no site antes de pagar.</p>
+      </div>
+      <div class="filters" id="filtros" role="tablist" aria-label="Filtrar por categoria"></div>
+      <div class="grid" id="lista-ofertas">
+        <p class="muted">Carregando ofertas…</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="cupons" class="section section-alt">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Cupons do Mercado Livre</h2>
+        <p class="muted">Toque no cupom para copiar. Use no checkout — normalmente vale um cupom por compra.</p>
+      </div>
+      <div class="cupons" id="lista-cupons"></div>
+    </div>
+  </section>
+
+  <section id="como-funciona" class="section">
+    <div class="wrap">
+      <div class="section-head"><h2>Como funciona</h2></div>
+      <div class="steps">
+        <div class="step"><b>1</b><h3>A gente garimpa</h3><p>Todo dia olhamos preços, histórico e reputação dos vendedores. Peça de origem duvidosa não entra.</p></div>
+        <div class="step"><b>2</b><h3>Você recebe</h3><p>As ofertas chegam no grupo do WhatsApp, no Telegram e nas redes, com o link direto.</p></div>
+        <div class="step"><b>3</b><h3>Você compra seguro</h3><p>A compra é feita no próprio Mercado Livre, com Compra Garantida. Você paga o mesmo preço.</p></div>
+      </div>
+      <div class="tip">
+        <strong>Dica:</strong> quando a oferta diz <em>"preço com cupom da loja"</em>, toque em <em>"com Cupom"</em> na página do produto para ativar antes de comprar. Se a oferta indicar uma loja específica e outra aparecer, use <em>"Outras opções de compra"</em> para escolher a loja certa.
+      </div>
+    </div>
+  </section>
+
+  <section id="participe" class="section section-alt">
+    <div class="wrap participe">
+      <h2>Receba as ofertas primeiro</h2>
+      <p class="muted">Oferta boa de hardware acaba rápido. Entre no grupo e ative as notificações.</p>
+      <div class="hero-cta center">
+        <a class="btn btn-green js-whats" href="#participe">WhatsApp</a>
+        <a class="btn btn-ghost js-tele" href="#participe">Telegram</a>
+      </div>
+      <div class="socials" id="redes"></div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="wrap">
+    <p><strong>Aviso:</strong> alguns links deste site são links de afiliado. Se você comprar por eles, o Radar do Hardware pode receber uma comissão do Mercado Livre — sem nenhum custo extra pra você. Isso ajuda a manter o projeto. Preços e disponibilidade são definidos pelas lojas e podem mudar sem aviso.</p>
+    <p class="muted">© <span id="ano"></span> Radar do Hardware</p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

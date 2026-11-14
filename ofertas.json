@@ -1,0 +1,73 @@
+{
+  "atualizado": "2026-11-14",
+  "links": {
+    "whatsapp": "",
+    "telegram": "",
+    "instagram": "https://www.instagram.com/radardohardware/",
+    "tiktok": "https://www.tiktok.com/@radardohardware",
+    "x": "https://x.com/radardohardware"
+  },
+  "cupons": [
+    { "codigo": "TODO141126SITE", "descricao": "R$ 100 OFF acima de R$ 999", "validade": "2026-11-14" },
+    { "codigo": "STTODO1411", "descricao": "R$ 40 OFF acima de R$ 399", "validade": "2026-11-14" },
+    { "codigo": "TODOST1411", "descricao": "R$ 20 OFF acima de R$ 119", "validade": "2026-11-14" },
+    { "codigo": "MELIMAIS1411", "descricao": "20% OFF acima de R$ 299 (limite R$ 80) — exclusivo Meli+", "validade": "2026-11-14" }
+  ],
+  "ofertas": [
+    {
+      "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
+      "categoria": "Processadores",
+      "preco": 1159.00,
+      "preco_antigo": 1792.58,
+      "loja": "Terabyte (loja oficial)",
+      "obs": "Preço com cupom da loja — ative na página do produto.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766425-MLA91568651122_092025-O.webp",
+      "link": "https://meli.la/1eDrVjX",
+      "destaque": true
+    },
+    {
+      "titulo": "Placa-mãe MSI PRO H610M-G DDR4 (VGA, HDMI e DisplayPort)",
+      "categoria": "Placas-mãe",
+      "preco": 549.00,
+      "preco_antigo": 799.00,
+      "loja": "Login (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_606943-MLA91961121555_092025-O.webp",
+      "link": "https://meli.la/1szoYcA",
+      "destaque": false
+    },
+    {
+      "titulo": "Memória Crucial Basics 8GB DDR4 3200MHz",
+      "categoria": "Memórias",
+      "preco": 516.40,
+      "preco_antigo": 846.48,
+      "loja": "Terabyte (loja oficial)",
+      "obs": "Preço com cupom da loja — ative na página do produto.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676225-MLB111923736428_062026-O.webp",
+      "link": "https://meli.la/1FZ4Uxj",
+      "destaque": false
+    },
+    {
+      "titulo": "SSD Adata Legend 710 256GB NVMe M.2",
+      "categoria": "Armazenamento",
+      "preco": 581.48,
+      "preco_antigo": 768.05,
+      "loja": "Terabyte (loja oficial)",
+      "obs": "Preço com cupom da loja — ative na página do produto.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_740741-MLB111184574060_052026-O-ssd-adata-legend-710-256gb-m2-2280-nvme-leitura-2100mbs.webp",
+      "link": "https://meli.la/1KAkhaY",
+      "destaque": false
+    },
+    {
+      "titulo": "Memória Kingston Fury Beast 8GB DDR4 3200MHz",
+      "categoria": "Memórias",
+      "preco": 650.00,
+      "preco_antigo": 0,
+      "loja": "TOP SYSTEM (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990954-MLB90068742902_082025-O-memoria-pc-ddr4-8gb-3200mhz-fury-beast-preto.webp",
+      "link": "https://meli.la/2SL18Zo",
+      "destaque": false
+    }
+  ]
+}
