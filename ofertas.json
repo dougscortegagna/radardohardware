@@ -9,6 +9,17 @@
   },
   "ofertas": [
     {
+      "titulo": "Controle Pro Nintendo Switch (original, sem fio)",
+      "categoria": "Games",
+      "preco": 389.9,
+      "preco_antigo": 699.9,
+      "loja": "Nintendo (loja oficial)",
+      "obs": "R$ 350,91 no Pix • R$ 315,82 no Pix com o cupom OFFHOJEMELI (10% OFF acima de R$ 149, até R$ 200)",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702166-MLA91958546213_092025-O.webp",
+      "link": "https://meli.la/31snduR",
+      "destaque": true
+    },
+    {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
       "categoria": "Processadores",
       "preco": 1066.0,
@@ -17,7 +28,7 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_766425-MLA91568651122_092025-O.webp",
       "link": "https://meli.la/1eDrVjX",
-      "destaque": true
+      "destaque": false
     },
     {
       "titulo": "Placa-mãe MSI PRO H610M-G DDR4 (VGA, HDMI e DisplayPort)",
