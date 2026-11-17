@@ -20,6 +20,17 @@
       "destaque": true
     },
     {
+      "titulo": "Controle Pro Nintendo Switch 2 (original, sem fio)",
+      "categoria": "Games",
+      "preco": 599.9,
+      "preco_antigo": 0,
+      "loja": "Nintendo (loja oficial)",
+      "obs": "R$ 557,91 no Pix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_690975-MLA99562283504_122025-O.webp",
+      "link": "https://meli.la/2CsLMCk",
+      "destaque": false
+    },
+    {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
       "categoria": "Processadores",
       "preco": 1066.0,
