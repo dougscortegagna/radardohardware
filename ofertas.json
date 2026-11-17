@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-16",
+  "atualizado": "2026-11-17",
   "links": {
     "whatsapp": "https://chat.whatsapp.com/CHeaeWX6i3b5tLQquJDWIB",
     "telegram": "https://t.me/radardohardware",
@@ -11,9 +11,9 @@
     {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
       "categoria": "Processadores",
-      "preco": 1177.0,
-      "preco_antigo": 1792.58,
-      "loja": "Terabyte (loja oficial)",
+      "preco": 1066.0,
+      "preco_antigo": 0,
+      "loja": "topinfo2025 (MercadoLíder)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_766425-MLA91568651122_092025-O.webp",
       "link": "https://meli.la/1eDrVjX",
@@ -23,11 +23,22 @@
       "titulo": "Placa-mãe MSI PRO H610M-G DDR4 (VGA, HDMI e DisplayPort)",
       "categoria": "Placas-mãe",
       "preco": 549.0,
-      "preco_antigo": 699.1,
+      "preco_antigo": 699.0,
       "loja": "Login (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_606943-MLA91961121555_092025-O.webp",
       "link": "https://meli.la/1szoYcA",
+      "destaque": false
+    },
+    {
+      "titulo": "Placa-mãe Gigabyte H610M H V3 DDR4 (VGA e HDMI)",
+      "categoria": "Placas-mãe",
+      "preco": 633.32,
+      "preco_antigo": 0,
+      "loja": "KaBuM! (loja oficial)",
+      "obs": "Entrega mais demorada (previsão: 1º de dezembro).",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_738398-MLB119649848268_112026-O-placamae-gigabyte-h610m-h-v3-intel-lga-1700-matx-preto.webp",
+      "link": "https://meli.la/1r5qptB",
       "destaque": false
     },
     {
@@ -44,7 +55,7 @@
     {
       "titulo": "SSD Adata Legend 710 256GB NVMe M.2",
       "categoria": "Armazenamento",
-      "preco": 599.48,
+      "preco": 602.94,
       "preco_antigo": 768.05,
       "loja": "Terabyte (loja oficial)",
       "obs": "",
