@@ -161,3 +161,14 @@ h1 span { color: var(--green); }
   .steps { grid-template-columns: 1fr; }
   .topnav a:not(.btn) { display: none; }
 }
+
+/* Cupons no grupo */
+.hero-note { margin: -4px 0 22px; padding: 10px 14px; border-left: 3px solid var(--amber); background: rgba(255,201,74,.08); border-radius: 8px; color: var(--text); font-size: .95rem; }
+.hero-note strong { color: var(--amber); }
+.cupom-banner { display: flex; align-items: center; gap: 14px; margin: 0 0 22px; padding: 14px 18px; border: 1px dashed var(--amber); border-radius: 14px; background: rgba(255,201,74,.07); color: var(--text); text-decoration: none; font-size: .95rem; line-height: 1.45; }
+.cupom-banner:hover { background: rgba(255,201,74,.13); }
+.cupom-ico { font-size: 1.6rem; }
+.cupom-cta { margin-left: auto; white-space: nowrap; color: var(--amber); font-weight: 700; }
+.perks { list-style: none; padding: 0; margin: 18px auto 24px; display: grid; gap: 10px; max-width: 460px; text-align: left; }
+.perks li { display: flex; gap: 10px; align-items: center; padding: 10px 14px; background: var(--card); border: 1px solid var(--line); border-radius: 10px; }
+@media (max-width: 640px) { .cupom-banner { flex-wrap: wrap; } .cupom-cta { margin-left: 0; } }
