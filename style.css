@@ -205,4 +205,9 @@ h1 { font-size: clamp(1.8rem, 3.6vw, 2.7rem); }
   .hero-cta { margin-top: 14px; }
   .hero-cta .btn { flex: 1 1 auto; text-align: center; }
   .hot-item img { width: 56px; height: 56px; }
+  .hero-text { display: contents; }
+  .hero h1 { order: 1; }
+  .hot-panel { order: 2; }
+  .hero-note { order: 3; margin-top: 0; }
+  .hero-cta { order: 4; margin-top: 0; }
 }
