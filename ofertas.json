@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-18",
+  "atualizado": "2026-11-19",
   "links": {
     "whatsapp": "https://chat.whatsapp.com/CHeaeWX6i3b5tLQquJDWIB",
     "telegram": "https://t.me/radardohardware",
@@ -9,15 +9,114 @@
   },
   "ofertas": [
     {
-      "titulo": "Controle Pro Nintendo Switch (original, sem fio)",
+      "titulo": "Console PlayStation 5 Slim com leitor de disco + ASTRO BOT e Gran Turismo 7",
+      "categoria": "Games",
+      "preco": 5099.9,
+      "preco_antigo": 0,
+      "loja": "PlayStation (loja oficial)",
+      "obs": "R$ 4.844,90 no Pix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756719-MLA92558518158_092025-O.webp",
+      "link": "https://meli.la/1yE2hbW",
+      "destaque": true
+    },
+    {
+      "titulo": "Console Nintendo Switch 2 (modelo nacional)",
+      "categoria": "Games",
+      "preco": 4599.9,
+      "preco_antigo": 0,
+      "loja": "Nintendo (loja oficial)",
+      "obs": "R$ 4.277,91 no Pix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_785396-MLA99867558581_112025-O.webp",
+      "link": "https://meli.la/1Gwpcwg",
+      "destaque": false
+    },
+    {
+      "titulo": "Zelda: Tears of the Kingdom – Nintendo Switch (digital)",
       "categoria": "Games",
       "preco": 389.9,
-      "preco_antigo": 699.9,
+      "preco_antigo": 0,
       "loja": "Nintendo (loja oficial)",
-      "obs": "R$ 358,71 no Pix",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702166-MLA91958546213_092025-O.webp",
-      "link": "https://meli.la/31snduR",
+      "obs": "Jogo digital: o código chega por e-mail.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655517-MLA116493596099_082026-O.webp",
+      "link": "https://meli.la/2PsZJHQ",
+      "destaque": false
+    },
+    {
+      "titulo": "Processador AMD Ryzen 7 5700X (8 núcleos, AM4)",
+      "categoria": "Processadores",
+      "preco": 1399.9,
+      "preco_antigo": 2153.0,
+      "loja": "Mega Byte (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_871623-MLA92019646747_092025-O.webp",
+      "link": "https://meli.la/2usguPN",
+      "destaque": false
+    },
+    {
+      "titulo": "Placa de vídeo MSI GeForce RTX 5060 8GB Shadow 2X OC",
+      "categoria": "Placas de vídeo",
+      "preco": 3249.0,
+      "preco_antigo": 5163.78,
+      "loja": "Nvidia (loja oficial)",
+      "obs": "R$ 3.054,06 no Pix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901198-MLA99972929477_112025-O.webp",
+      "link": "https://meli.la/1HXZgZu",
       "destaque": true
+    },
+    {
+      "titulo": "Fonte MSI MAG A650GN II 650W 80 Plus Gold (ATX 3.1)",
+      "categoria": "Fontes",
+      "preco": 433.9,
+      "preco_antigo": 0,
+      "loja": "Gigantec (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_696988-MLA109968756871_042026-O.webp",
+      "link": "https://meli.la/1XFUz47",
+      "destaque": false
+    },
+    {
+      "titulo": "Gabinete Montech X3 Glass Branco (Mid Tower, 6 fans)",
+      "categoria": "Gabinetes",
+      "preco": 411.0,
+      "preco_antigo": 571.0,
+      "loja": "Terabyte (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_883865-MLA99990617203_112025-O.webp",
+      "link": "https://meli.la/1sGW5H1",
+      "destaque": false
+    },
+    {
+      "titulo": "Samsung Galaxy S26 5G 256GB 12GB RAM",
+      "categoria": "Celulares",
+      "preco": 4939.0,
+      "preco_antigo": 7799.0,
+      "loja": "Samsung (loja oficial)",
+      "obs": "R$ 4.445,10 no Pix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_615210-MLA109050269404_032026-O.webp",
+      "link": "https://meli.la/13pgrwy",
+      "destaque": false
+    },
+    {
+      "titulo": "Samsung Galaxy S25 5G 256GB 12GB RAM",
+      "categoria": "Celulares",
+      "preco": 4307.0,
+      "preco_antigo": 5999.0,
+      "loja": "Samsung (loja oficial)",
+      "obs": "R$ 3.876,30 no Pix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_829029-MLA121816578585_112026-O.webp",
+      "link": "https://meli.la/1T4m7Vv",
+      "destaque": false
+    },
+    {
+      "titulo": "iPhone 17 256GB",
+      "categoria": "Celulares",
+      "preco": 5859.0,
+      "preco_antigo": 7999.0,
+      "loja": "Apple (loja oficial)",
+      "obs": "R$ 5.683,23 no Pix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_641716-MLA94920239704_102025-O.webp",
+      "link": "https://meli.la/2oPJzd5",
+      "destaque": false
     },
     {
       "titulo": "Controle Pro Nintendo Switch 2 (original, sem fio)",
@@ -33,10 +132,10 @@
     {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
       "categoria": "Processadores",
-      "preco": 1177.0,
+      "preco": 1199.0,
       "preco_antigo": 1792.58,
-      "loja": "Terabyte (loja oficial)",
-      "obs": "Na página, toque em \"Outras opções de compra\" e escolha a Terabyte.",
+      "loja": "CHIPART",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_766425-MLA91568651122_092025-O.webp",
       "link": "https://meli.la/1eDrVjX",
       "destaque": false
@@ -44,9 +143,9 @@
     {
       "titulo": "Placa-mãe MSI PRO H610M-G DDR4 (VGA, HDMI e DisplayPort)",
       "categoria": "Placas-mãe",
-      "preco": 549.0,
+      "preco": 536.99,
       "preco_antigo": 699.0,
-      "loja": "Login (loja oficial)",
+      "loja": "MAX PC",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_606943-MLA91961121555_092025-O.webp",
       "link": "https://meli.la/1szoYcA",
