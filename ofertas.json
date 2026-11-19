@@ -42,6 +42,28 @@
       "destaque": false
     },
     {
+      "titulo": "GTA V – PS5 (mídia física)",
+      "categoria": "Games",
+      "preco": 145.0,
+      "preco_antigo": 197.0,
+      "loja": "Gamer Hut (loja oficial)",
+      "obs": "R$ 138,20 no Pix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_654390-MLB51752584853_092022-O.webp",
+      "link": "https://meli.la/1XPysUW",
+      "destaque": false
+    },
+    {
+      "titulo": "Mario Kart 8 Deluxe – Nintendo Switch (mídia física)",
+      "categoria": "Games",
+      "preco": 326.0,
+      "preco_antigo": 430.24,
+      "loja": "Gamer Hut (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_954659-MLA99372574674_112025-O.webp",
+      "link": "https://meli.la/2RLbtNX",
+      "destaque": false
+    },
+    {
       "titulo": "Processador AMD Ryzen 7 5700X (8 núcleos, AM4)",
       "categoria": "Processadores",
       "preco": 1399.9,
@@ -187,12 +209,12 @@
     {
       "titulo": "Memória Kingston Fury Beast 8GB DDR4 3200MHz",
       "categoria": "Memórias",
-      "preco": 650.0,
+      "preco": 764.69,
       "preco_antigo": 0,
-      "loja": "TOP SYSTEM (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_990954-MLB90068742902_082025-O-memoria-pc-ddr4-8gb-3200mhz-fury-beast-preto.webp",
-      "link": "https://meli.la/2SL18Zo",
+      "loja": "KaBuM! (loja oficial)",
+      "obs": "R$ 726,46 no Pix",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_881983-MLB119478020868_112026-O.webp",
+      "link": "https://meli.la/2Lwnrxf",
       "destaque": false
     }
   ]
