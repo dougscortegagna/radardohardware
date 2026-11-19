@@ -11,6 +11,7 @@
       document.getElementById('data-atualizacao').textContent = fmtData(dados.atualizado);
       ligarLinks(dados.links || {});
       montarOfertas(dados.ofertas || []);
+      montarDestaques(dados.ofertas || []);
     })
     .catch(() => {
       document.getElementById('lista-ofertas').innerHTML = '<p class="muted">Não foi possível carregar as ofertas agora. Tente de novo em instantes.</p>';
@@ -29,6 +30,27 @@
       .map(([nome, url]) => `<a href="${esc(url)}" target="_blank" rel="noopener">${nome}</a>`).join('');
   }
 
+
+  function montarDestaques(ofertas) {
+    const el = document.getElementById('hot-list');
+    if (!el) return;
+    const desc = (o) => (o.preco_antigo > o.preco ? 1 - o.preco / o.preco_antigo : 0);
+    const top = [...ofertas].sort((a, b) => (b.destaque - a.destaque) || (desc(b) - desc(a))).slice(0, 4);
+    el.innerHTML = top.map((o) => {
+      const d = Math.round(desc(o) * 100);
+      return `
+      <a class="hot-item" href="${esc(o.link)}" target="_blank" rel="noopener sponsored">
+        <img src="${esc(o.imagem)}" alt="" width="64" height="64">
+        <span class="hot-info">
+          <span class="hot-title">${esc(o.titulo)}</span>
+          <span class="hot-price">${brl(o.preco)}${d >= 10 ? ` <em>-${d}%</em>` : ''}</span>
+        </span>
+        <span class="hot-go" aria-hidden="true">→</span>
+      </a>`;
+    }).join('');
+    const all = document.querySelector('.hot-all');
+    if (all) all.textContent = `Ver todas as ${ofertas.length} ofertas ↓`;
+  }
 
   function montarOfertas(ofertas) {
     const lista = document.getElementById('lista-ofertas');
