@@ -14,10 +14,11 @@
       "preco": 5099.9,
       "preco_antigo": 0,
       "loja": "PlayStation (loja oficial)",
-      "obs": "R$ 4.844,90 no Pix",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_756719-MLA92558518158_092025-O.webp",
       "link": "https://meli.la/1yE2hbW",
-      "destaque": true
+      "destaque": true,
+      "preco_pix": 4844.9
     },
     {
       "titulo": "Console Nintendo Switch 2 (modelo nacional)",
@@ -25,10 +26,11 @@
       "preco": 4599.9,
       "preco_antigo": 0,
       "loja": "Nintendo (loja oficial)",
-      "obs": "R$ 4.277,91 no Pix",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_785396-MLA99867558581_112025-O.webp",
       "link": "https://meli.la/1Gwpcwg",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 4277.91
     },
     {
       "titulo": "Zelda: Tears of the Kingdom – Nintendo Switch (digital)",
@@ -47,10 +49,11 @@
       "preco": 145.0,
       "preco_antigo": 197.0,
       "loja": "Gamer Hut (loja oficial)",
-      "obs": "R$ 138,20 no Pix",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_654390-MLB51752584853_092022-O.webp",
       "link": "https://meli.la/1XPysUW",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 138.2
     },
     {
       "titulo": "Mario Kart 8 Deluxe – Nintendo Switch (mídia física)",
@@ -80,10 +83,11 @@
       "preco": 3249.0,
       "preco_antigo": 5163.78,
       "loja": "Nvidia (loja oficial)",
-      "obs": "R$ 3.054,06 no Pix",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_901198-MLA99972929477_112025-O.webp",
       "link": "https://meli.la/1HXZgZu",
-      "destaque": true
+      "destaque": true,
+      "preco_pix": 3054.06
     },
     {
       "titulo": "Fonte MSI MAG A650GN II 650W 80 Plus Gold (ATX 3.1)",
@@ -113,10 +117,11 @@
       "preco": 4939.0,
       "preco_antigo": 7799.0,
       "loja": "Samsung (loja oficial)",
-      "obs": "R$ 4.445,10 no Pix",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_615210-MLA109050269404_032026-O.webp",
       "link": "https://meli.la/13pgrwy",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 4445.1
     },
     {
       "titulo": "Samsung Galaxy S25 5G 256GB 12GB RAM",
@@ -124,10 +129,11 @@
       "preco": 4307.0,
       "preco_antigo": 5999.0,
       "loja": "Samsung (loja oficial)",
-      "obs": "R$ 3.876,30 no Pix",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_829029-MLA121816578585_112026-O.webp",
       "link": "https://meli.la/1T4m7Vv",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 3876.3
     },
     {
       "titulo": "iPhone 17 256GB",
@@ -135,10 +141,11 @@
       "preco": 5859.0,
       "preco_antigo": 7999.0,
       "loja": "Apple (loja oficial)",
-      "obs": "R$ 5.683,23 no Pix",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_641716-MLA94920239704_102025-O.webp",
       "link": "https://meli.la/2oPJzd5",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 5683.23
     },
     {
       "titulo": "Controle Pro Nintendo Switch 2 (original, sem fio)",
@@ -146,10 +153,11 @@
       "preco": 599.9,
       "preco_antigo": 0,
       "loja": "Nintendo (loja oficial)",
-      "obs": "R$ 557,91 no Pix",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_690975-MLA99562283504_122025-O.webp",
       "link": "https://meli.la/2CsLMCk",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 557.91
     },
     {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
@@ -212,10 +220,11 @@
       "preco": 764.69,
       "preco_antigo": 0,
       "loja": "KaBuM! (loja oficial)",
-      "obs": "R$ 726,46 no Pix",
+      "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_881983-MLB119478020868_112026-O.webp",
       "link": "https://meli.la/2Lwnrxf",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 726.46
     }
   ]
 }

@@ -1,6 +1,8 @@
 (function () {
   const brl = (v) => v.toLocaleString('pt-BR', { style: 'currency', currency: 'BRL' });
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+  const menor = (o) => (o.preco_pix && o.preco_pix < o.preco ? o.preco_pix : o.preco);
+  const temPix = (o) => !!(o.preco_pix && o.preco_pix < o.preco);
   const fmtData = (iso) => { const [a, m, d] = iso.split('-'); return `${d}/${m}/${a}`; };
 
   document.getElementById('ano').textContent = new Date().getFullYear();
@@ -34,7 +36,7 @@
   function montarDestaques(ofertas) {
     const el = document.getElementById('hot-list');
     if (!el) return;
-    const desc = (o) => (o.preco_antigo > o.preco ? 1 - o.preco / o.preco_antigo : 0);
+    const desc = (o) => (o.preco_antigo > menor(o) ? 1 - menor(o) / o.preco_antigo : 0);
     const top = [...ofertas].sort((a, b) => (b.destaque - a.destaque) || (desc(b) - desc(a))).slice(0, 4);
     el.innerHTML = top.map((o) => {
       const d = Math.round(desc(o) * 100);
@@ -43,7 +45,7 @@
         <img src="${esc(o.imagem)}" alt="" width="64" height="64">
         <span class="hot-info">
           <span class="hot-title">${esc(o.titulo)}</span>
-          <span class="hot-price">${brl(o.preco)}${d >= 10 ? ` <em>-${d}%</em>` : ''}</span>
+          <span class="hot-price">${brl(menor(o))}${temPix(o) ? ' <small>no Pix</small>' : ''}${d >= 10 ? ` <em>-${d}%</em>` : ''}</span>
         </span>
         <span class="hot-go" aria-hidden="true">→</span>
       </a>`;
@@ -60,7 +62,7 @@
     const render = (cat) => {
       const itens = ofertas.filter((o) => cat === 'Todas' || o.categoria === cat);
       lista.innerHTML = itens.map((o) => {
-        const desconto = o.preco_antigo > o.preco ? Math.round((1 - o.preco / o.preco_antigo) * 100) : 0;
+        const desconto = o.preco_antigo > menor(o) ? Math.round((1 - menor(o) / o.preco_antigo) * 100) : 0;
         const badge = o.destaque ? '<span class="badge hot">Destaque</span>' : (desconto >= 10 ? `<span class="badge">-${desconto}%</span>` : '');
         return `
         <article class="card">
@@ -70,7 +72,8 @@
             <h3>${esc(o.titulo)}</h3>
             <div class="price">
               ${desconto ? `<div class="price-old">${brl(o.preco_antigo)}</div>` : ''}
-              <div class="price-now">${brl(o.preco)}</div>
+              <div class="price-now">${brl(menor(o))}${temPix(o) ? ' <span class="pix-tag">no Pix</span>' : ''}</div>
+              ${temPix(o) ? `<div class="price-alt">ou ${brl(o.preco)} em outros meios</div>` : ''}
             </div>
             <div class="store">Vendido por ${esc(o.loja)}</div>
             ${o.obs ? `<div class="note">${esc(o.obs)}</div>` : ''}

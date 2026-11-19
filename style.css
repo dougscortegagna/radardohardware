@@ -211,3 +211,9 @@ h1 { font-size: clamp(1.8rem, 3.6vw, 2.7rem); }
   .hero-note { order: 3; margin-top: 0; }
   .hero-cta { order: 4; margin-top: 0; }
 }
+
+/* Menor preço em destaque */
+.price-now { color: var(--green); display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
+.pix-tag { font-family: var(--font-body, inherit); font-size: .72rem; font-weight: 700; letter-spacing: .03em; text-transform: uppercase; color: var(--bg); background: var(--green); border-radius: 6px; padding: 3px 7px; }
+.price-alt { color: var(--muted); font-size: .84rem; margin-top: 2px; }
+.hot-price small { font-size: .72rem; font-weight: 700; text-transform: uppercase; color: var(--green); opacity: .85; }
