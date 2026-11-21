@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-19",
+  "atualizado": "2026-11-21",
   "links": {
     "whatsapp": "https://chat.whatsapp.com/CHeaeWX6i3b5tLQquJDWIB",
     "telegram": "https://t.me/radardohardware",
@@ -36,7 +36,7 @@
       "titulo": "Zelda: Tears of the Kingdom – Nintendo Switch (digital)",
       "categoria": "Games",
       "preco": 389.9,
-      "preco_antigo": 0,
+      "preco_antigo": 607.56,
       "loja": "Nintendo (loja oficial)",
       "obs": "Jogo digital: o código chega por e-mail.",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_655517-MLA116493596099_082026-O.webp",
@@ -46,8 +46,8 @@
     {
       "titulo": "GTA V – PS5 (mídia física)",
       "categoria": "Games",
-      "preco": 145.0,
-      "preco_antigo": 197.0,
+      "preco": 145.47,
+      "preco_antigo": 197.43,
       "loja": "Gamer Hut (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_654390-MLB51752584853_092022-O.webp",
@@ -69,31 +69,32 @@
     {
       "titulo": "Processador AMD Ryzen 7 5700X (8 núcleos, AM4)",
       "categoria": "Processadores",
-      "preco": 1399.9,
-      "preco_antigo": 2153.0,
-      "loja": "Mega Byte (loja oficial)",
+      "preco": 1199.0,
+      "preco_antigo": 1519.0,
+      "loja": "TNT Info (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_871623-MLA92019646747_092025-O.webp",
       "link": "https://meli.la/2usguPN",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 1079.1
     },
     {
       "titulo": "Placa de vídeo MSI GeForce RTX 5060 8GB Shadow 2X OC",
       "categoria": "Placas de vídeo",
-      "preco": 3249.0,
-      "preco_antigo": 5163.78,
-      "loja": "Nvidia (loja oficial)",
+      "preco": 3289.0,
+      "preco_antigo": 3799.0,
+      "loja": "Login (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_901198-MLA99972929477_112025-O.webp",
       "link": "https://meli.la/1HXZgZu",
       "destaque": true,
-      "preco_pix": 3054.06
+      "preco_pix": 3124.55
     },
     {
       "titulo": "Fonte MSI MAG A650GN II 650W 80 Plus Gold (ATX 3.1)",
       "categoria": "Fontes",
       "preco": 433.9,
-      "preco_antigo": 0,
+      "preco_antigo": 445.49,
       "loja": "Gigantec (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_696988-MLA109968756871_042026-O.webp",
@@ -103,8 +104,8 @@
     {
       "titulo": "Gabinete Montech X3 Glass Branco (Mid Tower, 6 fans)",
       "categoria": "Gabinetes",
-      "preco": 411.0,
-      "preco_antigo": 571.0,
+      "preco": 429.31,
+      "preco_antigo": 571.96,
       "loja": "Terabyte (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_883865-MLA99990617203_112025-O.webp",
@@ -114,26 +115,26 @@
     {
       "titulo": "Samsung Galaxy S26 5G 256GB 12GB RAM",
       "categoria": "Celulares",
-      "preco": 4939.0,
+      "preco": 4899.0,
       "preco_antigo": 7799.0,
       "loja": "Samsung (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_615210-MLA109050269404_032026-O.webp",
       "link": "https://meli.la/13pgrwy",
       "destaque": false,
-      "preco_pix": 4445.1
+      "preco_pix": 4409.1
     },
     {
       "titulo": "Samsung Galaxy S25 5G 256GB 12GB RAM",
       "categoria": "Celulares",
-      "preco": 4307.0,
+      "preco": 4332.0,
       "preco_antigo": 5999.0,
       "loja": "Samsung (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_829029-MLA121816578585_112026-O.webp",
       "link": "https://meli.la/1T4m7Vv",
       "destaque": false,
-      "preco_pix": 3876.3
+      "preco_pix": 3898.8
     },
     {
       "titulo": "iPhone 17 256GB",
@@ -141,11 +142,35 @@
       "preco": 5859.0,
       "preco_antigo": 7999.0,
       "loja": "Apple (loja oficial)",
-      "obs": "",
+      "obs": "Na página, escolha a opção \"Parcelamento sem juros\" (compra normal, sem plano de troca).",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_641716-MLA94920239704_102025-O.webp",
       "link": "https://meli.la/2oPJzd5",
       "destaque": false,
-      "preco_pix": 5683.23
+      "preco_pix": 5448.87
+    },
+    {
+      "titulo": "Monitor LG UltraGear 24\" Full HD 144Hz 1ms IPS (24G411A)",
+      "categoria": "Monitores",
+      "preco": 639.0,
+      "preco_pix": 543.15,
+      "preco_antigo": 699.0,
+      "loja": "LG (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-O.webp",
+      "link": "https://meli.la/2nbtxDJ",
+      "destaque": false
+    },
+    {
+      "titulo": "Monitor AOC Agon G50 23,8\" Full HD 144Hz 0,5ms",
+      "categoria": "Monitores",
+      "preco": 512.05,
+      "preco_pix": 491.57,
+      "preco_antigo": 0,
+      "loja": "Magalu (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_739846-MLB121689431179_112026-O.webp",
+      "link": "https://meli.la/2fhVTkY",
+      "destaque": false
     },
     {
       "titulo": "Controle Pro Nintendo Switch 2 (original, sem fio)",
@@ -163,19 +188,20 @@
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
       "categoria": "Processadores",
       "preco": 1199.0,
-      "preco_antigo": 1792.58,
+      "preco_antigo": 1766.9,
       "loja": "CHIPART",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_766425-MLA91568651122_092025-O.webp",
       "link": "https://meli.la/1eDrVjX",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 1139.05
     },
     {
       "titulo": "Placa-mãe MSI PRO H610M-G DDR4 (VGA, HDMI e DisplayPort)",
       "categoria": "Placas-mãe",
-      "preco": 536.99,
+      "preco": 549.0,
       "preco_antigo": 699.0,
-      "loja": "MAX PC",
+      "loja": "Login (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_606943-MLA91961121555_092025-O.webp",
       "link": "https://meli.la/1szoYcA",
@@ -190,6 +216,18 @@
       "obs": "Entrega mais demorada (previsão: 1º de dezembro).",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_738398-MLB119649848268_112026-O-placamae-gigabyte-h610m-h-v3-intel-lga-1700-matx-preto.webp",
       "link": "https://meli.la/1r5qptB",
+      "destaque": false
+    },
+    {
+      "titulo": "Placa-mãe MSI A520M-A Pro (AM4, DDR4, mATX)",
+      "categoria": "Placas-mãe",
+      "preco": 397.77,
+      "preco_pix": 357.99,
+      "preco_antigo": 0,
+      "loja": "KaBuM! (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_625287-MLB120102215036_112026-O.webp",
+      "link": "https://meli.la/1pZrisg",
       "destaque": false
     },
     {
@@ -217,14 +255,14 @@
     {
       "titulo": "Memória Kingston Fury Beast 8GB DDR4 3200MHz",
       "categoria": "Memórias",
-      "preco": 764.69,
+      "preco": 649.99,
       "preco_antigo": 0,
       "loja": "KaBuM! (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_881983-MLB119478020868_112026-O.webp",
       "link": "https://meli.la/2Lwnrxf",
       "destaque": false,
-      "preco_pix": 726.46
+      "preco_pix": 617.49
     }
   ]
 }
