@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-21",
+  "atualizado": "2026-11-23",
   "links": {
     "whatsapp": "https://chat.whatsapp.com/CHeaeWX6i3b5tLQquJDWIB",
     "telegram": "https://t.me/radardohardware",
@@ -36,7 +36,7 @@
       "titulo": "Zelda: Tears of the Kingdom – Nintendo Switch (digital)",
       "categoria": "Games",
       "preco": 389.9,
-      "preco_antigo": 607.56,
+      "preco_antigo": 0,
       "loja": "Nintendo (loja oficial)",
       "obs": "Jogo digital: o código chega por e-mail.",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_655517-MLA116493596099_082026-O.webp",
@@ -76,25 +76,24 @@
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_871623-MLA92019646747_092025-O.webp",
       "link": "https://meli.la/2usguPN",
       "destaque": false,
-      "preco_pix": 1079.1
+      "preco_pix": 1115.07
     },
     {
       "titulo": "Placa de vídeo MSI GeForce RTX 5060 8GB Shadow 2X OC",
       "categoria": "Placas de vídeo",
-      "preco": 3289.0,
-      "preco_antigo": 3799.0,
-      "loja": "Login (loja oficial)",
+      "preco": 3048.0,
+      "preco_antigo": 3298.0,
+      "loja": "Nvidia (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_901198-MLA99972929477_112025-O.webp",
       "link": "https://meli.la/1HXZgZu",
-      "destaque": true,
-      "preco_pix": 3124.55
+      "destaque": true
     },
     {
       "titulo": "Fonte MSI MAG A650GN II 650W 80 Plus Gold (ATX 3.1)",
       "categoria": "Fontes",
       "preco": 433.9,
-      "preco_antigo": 445.49,
+      "preco_antigo": 0,
       "loja": "Gigantec (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_696988-MLA109968756871_042026-O.webp",
@@ -115,14 +114,14 @@
     {
       "titulo": "Samsung Galaxy S26 5G 256GB 12GB RAM",
       "categoria": "Celulares",
-      "preco": 4899.0,
+      "preco": 5332.0,
       "preco_antigo": 7799.0,
       "loja": "Samsung (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_615210-MLA109050269404_032026-O.webp",
       "link": "https://meli.la/13pgrwy",
       "destaque": false,
-      "preco_pix": 4409.1
+      "preco_pix": 4798.8
     },
     {
       "titulo": "Samsung Galaxy S25 5G 256GB 12GB RAM",
@@ -146,13 +145,12 @@
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_641716-MLA94920239704_102025-O.webp",
       "link": "https://meli.la/2oPJzd5",
       "destaque": false,
-      "preco_pix": 5448.87
+      "preco_pix": 5566.05
     },
     {
       "titulo": "Monitor LG UltraGear 24\" Full HD 144Hz 1ms IPS (24G411A)",
       "categoria": "Monitores",
       "preco": 639.0,
-      "preco_pix": 543.15,
       "preco_antigo": 699.0,
       "loja": "LG (loja oficial)",
       "obs": "",
@@ -163,8 +161,7 @@
     {
       "titulo": "Monitor AOC Agon G50 23,8\" Full HD 144Hz 0,5ms",
       "categoria": "Monitores",
-      "preco": 512.05,
-      "preco_pix": 491.57,
+      "preco": 539.0,
       "preco_antigo": 0,
       "loja": "Magalu (loja oficial)",
       "obs": "",
@@ -175,36 +172,24 @@
     {
       "titulo": "Controle Pro Nintendo Switch 2 (original, sem fio)",
       "categoria": "Games",
-      "preco": 599.9,
-      "preco_antigo": 0,
+      "preco": 499.0,
+      "preco_antigo": 599.9,
       "loja": "Nintendo (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_690975-MLA99562283504_122025-O.webp",
       "link": "https://meli.la/2CsLMCk",
       "destaque": false,
-      "preco_pix": 557.91
+      "preco_pix": 464.07
     },
     {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
       "categoria": "Processadores",
-      "preco": 1199.0,
-      "preco_antigo": 1766.9,
-      "loja": "CHIPART",
+      "preco": 1177.0,
+      "preco_antigo": 1792.58,
+      "loja": "Terabyte (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_766425-MLA91568651122_092025-O.webp",
       "link": "https://meli.la/1eDrVjX",
-      "destaque": false,
-      "preco_pix": 1139.05
-    },
-    {
-      "titulo": "Placa-mãe MSI PRO H610M-G DDR4 (VGA, HDMI e DisplayPort)",
-      "categoria": "Placas-mãe",
-      "preco": 549.0,
-      "preco_antigo": 699.0,
-      "loja": "Login (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_606943-MLA91961121555_092025-O.webp",
-      "link": "https://meli.la/1szoYcA",
       "destaque": false
     },
     {
