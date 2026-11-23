@@ -156,7 +156,8 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-O.webp",
       "link": "https://meli.la/2nbtxDJ",
-      "destaque": false
+      "destaque": true,
+      "preco_pix": 587.88
     },
     {
       "titulo": "Monitor AOC Agon G50 23,8\" Full HD 144Hz 0,5ms",
