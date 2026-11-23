@@ -37,7 +37,9 @@
     const el = document.getElementById('hot-list');
     if (!el) return;
     const desc = (o) => (o.preco_antigo > menor(o) ? 1 - menor(o) / o.preco_antigo : 0);
-    const top = [...ofertas].sort((a, b) => (b.destaque - a.destaque) || (desc(b) - desc(a))).slice(0, 4);
+    const dest = ofertas.filter((o) => o.destaque);
+    const resto = ofertas.filter((o) => !o.destaque).sort((a, b) => desc(b) - desc(a));
+    const top = [...dest, ...resto].slice(0, 4);
     el.innerHTML = top.map((o) => {
       const d = Math.round(desc(o) * 100);
       return `
