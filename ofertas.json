@@ -148,6 +148,28 @@
       "preco_pix": 5566.05
     },
     {
+      "titulo": "Notebook Gamer Acer Nitro V15 – i5-13420H, RTX 4050 6GB, 8GB DDR5, SSD 512GB, 15,6\" 165Hz",
+      "categoria": "Notebooks",
+      "preco": 5499.0,
+      "preco_antigo": 7999.0,
+      "loja": "Acer (loja oficial)",
+      "obs": "Vem com Linux.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_979248-MLA113556229593_062026-O.webp",
+      "link": "https://meli.la/1dykJen",
+      "destaque": false
+    },
+    {
+      "titulo": "Notebook Gamer Acer Nitro V 16 – Core 7 240H, RTX 5060 8GB, 16GB DDR5, SSD 512GB, 16\" 165Hz",
+      "categoria": "Notebooks",
+      "preco": 8899.0,
+      "preco_antigo": 13255.27,
+      "loja": "Acer (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603530-MLA119035516601_102026-O.webp",
+      "link": "https://meli.la/1UvLUxc",
+      "destaque": false
+    },
+    {
       "titulo": "Monitor LG UltraGear 24\" Full HD 144Hz 1ms IPS (24G411A)",
       "categoria": "Monitores",
       "preco": 639.0,
