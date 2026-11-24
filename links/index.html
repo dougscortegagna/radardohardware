@@ -53,6 +53,10 @@
   .social { display: flex; justify-content: center; gap: 18px; margin-top: 28px; }
   .social a { color: var(--gray); text-decoration: none; font-size: .88rem; font-weight: 600; }
   .social a:hover { color: var(--lime); }
+  .insta { margin-top: 26px; padding: 14px; border-radius: 20px; background: linear-gradient(135deg, rgba(255,107,44,.12), rgba(198,255,61,.08)); border: 1px solid rgba(255,107,44,.35); }
+  .insta h2 { margin: 0 0 4px; }
+  .insta .sub { margin-bottom: 12px; }
+  .num { font-family: 'JetBrains Mono', monospace; font-weight: 800; font-size: 1.05rem; background: var(--orange); color: var(--bg); border-radius: 10px; padding: 6px 8px; flex: none; min-width: 44px; text-align: center; }
   footer { text-align: center; color: var(--gray); font-size: .72rem; line-height: 1.5; margin-top: 22px; opacity: .8; }
 </style>
 </head>
@@ -77,6 +81,12 @@
   </nav>
   <p class="note">🎟️ Os <b>cupons de desconto</b> saem primeiro nos grupos — esgotam rápido!</p>
 
+  <section class="insta" id="insta" hidden>
+    <h2>📸 Vistos no Instagram</h2>
+    <p class="sub">Viu no post? Toque no número do atalho.</p>
+    <div class="list" id="insta-lista"></div>
+  </section>
+
   <h2><span class="dot"></span> Ofertas do dia</h2>
   <p class="sub" id="atualizado">Carregando…</p>
   <div class="list" id="lista"></div>
@@ -100,12 +110,11 @@
     const [a, m, dd] = (d.atualizado || '').split('-');
     document.getElementById('atualizado').textContent = dd ? `Preços conferidos em ${dd}/${m}/${a}. Toque na oferta para ver na loja.` : '';
     const ofs = d.ofertas || [];
-    const desc = (o) => (o.preco_antigo > menor(o) ? 1 - menor(o) / o.preco_antigo : 0);
-    const lista = [...ofs.filter((o) => o.destaque), ...ofs.filter((o) => !o.destaque).sort((x, y) => desc(y) - desc(x))].slice(0, 12);
-    document.getElementById('lista').innerHTML = lista.map((o) => {
+    const card = (o, num) => {
       const pct = Math.round(desc(o) * 100);
       const pix = o.preco_pix && o.preco_pix < o.preco;
       return `<a class="item" href="${esc(o.link)}" target="_blank" rel="noopener sponsored">
+        ${num ? `<span class="num">#${Number(o.atalho)}</span>` : ''}
         <img src="${esc(o.imagem)}" alt="" loading="lazy" width="76" height="76">
         <span class="info">
           <span class="title">${esc(o.titulo)}</span>
@@ -114,7 +123,12 @@
         </span>
         <span class="go" aria-hidden="true">›</span>
       </a>`;
-    }).join('');
+    };
+    const desc = (o) => (o.preco_antigo > menor(o) ? 1 - menor(o) / o.preco_antigo : 0);
+    const atalhos = ofs.filter((o) => Number(o.atalho) > 0).sort((x, y) => y.atalho - x.atalho);
+    if (atalhos.length) { document.getElementById('insta-lista').innerHTML = atalhos.map((o) => card(o, true)).join(''); document.getElementById('insta').hidden = false; }
+    const lista = [...ofs.filter((o) => o.destaque), ...ofs.filter((o) => !o.destaque).sort((x, y) => desc(y) - desc(x))].slice(0, 12);
+    document.getElementById('lista').innerHTML = lista.map((o) => card(o, false)).join('');
   }).catch(() => { document.getElementById('atualizado').textContent = 'Não foi possível carregar as ofertas agora.'; });
 })();
 </script>

@@ -178,7 +178,8 @@
       "obs": "Vem com Linux.",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_633671-MLB117449694450_102026-O.webp",
       "link": "https://meli.la/1Tg9yBF",
-      "destaque": false
+      "destaque": false,
+      "atalho": 3
     },
     {
       "titulo": "Notebook Gamer Acer Nitro V15 – i5-13420H, RTX 4050 6GB, 8GB DDR5, SSD 512GB, 15,6\" 165Hz",
@@ -189,7 +190,9 @@
       "obs": "Vem com Linux.",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_979248-MLA113556229593_062026-O.webp",
       "link": "https://meli.la/1dykJen",
-      "destaque": false
+      "destaque": false,
+      "atalho": 2,
+      "preco_pix": 5299.0
     },
     {
       "titulo": "Notebook Gamer Acer Nitro V 16 – Core 7 240H, RTX 5060 8GB, 16GB DDR5, SSD 512GB, 16\" 165Hz",
@@ -211,7 +214,8 @@
       "obs": "Vem com Linux.",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_909033-MLB121931577737_112026-O.webp",
       "link": "https://meli.la/1yVDAFe",
-      "destaque": false
+      "destaque": false,
+      "atalho": 1
     },
     {
       "titulo": "Monitor LG UltraGear 24\" Full HD 144Hz 1ms IPS (24G411A)",
