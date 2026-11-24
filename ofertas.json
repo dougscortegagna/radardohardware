@@ -20,16 +20,16 @@
       "destaque": true
     },
     {
-      "titulo": "Placa de Vídeo Gigabyte Radeon RX 9050 Gaming OC 8GB GDDR6",
-      "categoria": "Placas de vídeo",
-      "preco": 2199.0,
-      "preco_pix": 2089.05,
-      "preco_antigo": 2789.0,
-      "loja": "TNT Info",
+      "titulo": "Monitor Gamer Samsung Odyssey G5 27\" QHD 180Hz 0,03ms G-Sync/FreeSync",
+      "categoria": "Monitores",
+      "preco": 2788.99,
+      "preco_antigo": 2999.0,
+      "loja": "Samsung (loja oficial)",
       "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_801416-MLA116120319105_082026-O.webp",
-      "link": "https://meli.la/1X88G13",
-      "destaque": true
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_874400-MLA106481154366_022026-O.webp",
+      "link": "https://meli.la/1iZWzdQ",
+      "destaque": true,
+      "atalho": 4
     },
     {
       "titulo": "Monitor Gamer LG UltraGear 34\" Curvo UltraWide QHD 160Hz 1ms (34G600A)",
