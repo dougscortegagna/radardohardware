@@ -20,6 +20,29 @@
       "destaque": true
     },
     {
+      "titulo": "Placa de Vídeo Gigabyte Radeon RX 9050 Gaming OC 8GB GDDR6",
+      "categoria": "Placas de vídeo",
+      "preco": 2199.0,
+      "preco_pix": 2089.05,
+      "preco_antigo": 2789.0,
+      "loja": "TNT Info",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_801416-MLA116120319105_082026-O.webp",
+      "link": "https://meli.la/1X88G13",
+      "destaque": true
+    },
+    {
+      "titulo": "Monitor Gamer LG UltraGear 34\" Curvo UltraWide QHD 160Hz 1ms (34G600A)",
+      "categoria": "Monitores",
+      "preco": 1799.0,
+      "preco_antigo": 2515.49,
+      "loja": "LG (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_714205-MLA120725726433_112026-O.webp",
+      "link": "https://meli.la/1RBPEV7",
+      "destaque": true
+    },
+    {
       "titulo": "Console PlayStation 5 Slim com leitor de disco + ASTRO BOT e Gran Turismo 7",
       "categoria": "Games",
       "preco": 5099.9,
@@ -317,6 +340,66 @@
       "link": "https://meli.la/2Lwnrxf",
       "destaque": false,
       "preco_pix": 552.49
+    },
+    {
+      "titulo": "Controle DualSense PS5 – Midnight Black",
+      "categoria": "Games",
+      "preco": 399.0,
+      "preco_pix": 371.07,
+      "preco_antigo": 562.02,
+      "loja": "PlayStation (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
+      "link": "https://meli.la/1ApTADW",
+      "destaque": false
+    },
+    {
+      "titulo": "Controle Xbox Series X|S sem fio – Azul Shock",
+      "categoria": "Games",
+      "preco": 399.9,
+      "preco_pix": 339.92,
+      "preco_antigo": 615.12,
+      "loja": "Mega Byte",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_838906-MLA86702461397_062025-O.webp",
+      "link": "https://meli.la/1Vfsn5a",
+      "destaque": false
+    },
+    {
+      "titulo": "Controle Nintendo Switch Pro",
+      "categoria": "Games",
+      "preco": 299.0,
+      "preco_pix": 278.07,
+      "preco_antigo": 399.0,
+      "loja": "Nintendo (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901414-MLA99504976988_112025-O.webp",
+      "link": "https://meli.la/1YMrH7J",
+      "destaque": false
+    },
+    {
+      "titulo": "Monster Hunter Stories 3: Twisted Reflection – Switch 2",
+      "categoria": "Games",
+      "preco": 269.0,
+      "preco_pix": 242.1,
+      "preco_antigo": 399.9,
+      "loja": "Nintendo (loja oficial)",
+      "obs": "Oferta relâmpago: pode acabar a qualquer momento.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756162-MLA107485360194_032026-O.webp",
+      "link": "https://meli.la/1ekv3Ka",
+      "destaque": false
+    },
+    {
+      "titulo": "Câmbio Logitech G Driving Force Shifter (G29/G920/G923)",
+      "categoria": "Periféricos",
+      "preco": 289.0,
+      "preco_pix": 260.1,
+      "preco_antigo": 399.9,
+      "loja": "Logitech G (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_686796-MLA99460829646_112025-O.webp",
+      "link": "https://meli.la/2NSqJrS",
+      "destaque": false
     }
   ]
 }
