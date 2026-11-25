@@ -17,7 +17,8 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_857766-MLB121839404507_112026-O.webp",
       "link": "https://meli.la/1hyg7hY",
-      "destaque": true
+      "destaque": true,
+      "atalho": 5
     },
     {
       "titulo": "Monitor Gamer Samsung Odyssey OLED G5 27\" QHD 180Hz 0,03ms",
@@ -340,7 +341,8 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_838906-MLA86702461397_062025-O.webp",
       "link": "https://meli.la/1Vfsn5a",
-      "destaque": false
+      "destaque": false,
+      "atalho": 6
     },
     {
       "titulo": "Controle Nintendo Switch Pro",
@@ -376,7 +378,8 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_628100-MLA99480320238_112025-O.webp",
       "link": "https://meli.la/318ezWg",
-      "destaque": false
+      "destaque": false,
+      "atalho": 7
     }
   ]
 }
