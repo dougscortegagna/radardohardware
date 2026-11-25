@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-24",
+  "atualizado": "2026-11-25",
   "links": {
     "whatsapp": "https://chat.whatsapp.com/CHeaeWX6i3b5tLQquJDWIB",
     "telegram": "https://t.me/radardohardware",
@@ -125,13 +125,13 @@
     {
       "titulo": "Processador AMD Ryzen 5 5500 (6 núcleos, AM4, com cooler)",
       "categoria": "Processadores",
-      "preco": 569.0,
-      "preco_pix": 495.03,
-      "preco_antigo": 740.0,
-      "loja": "TNT Info (loja oficial)",
+      "preco": 529.9,
+      "preco_pix": 487.51,
+      "preco_antigo": 1060.68,
+      "loja": "Mega Byte",
       "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655990-MLB96262084786_102025-O.webp",
-      "link": "https://meli.la/1khrLii",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821363-MLA118014839321_092026-O.webp",
+      "link": "https://meli.la/2VqoGkh",
       "destaque": false
     },
     {
@@ -148,7 +148,7 @@
     {
       "titulo": "Gabinete Montech X3 Glass Branco (Mid Tower, 6 fans)",
       "categoria": "Gabinetes",
-      "preco": 429.31,
+      "preco": 426.77,
       "preco_antigo": 571.96,
       "loja": "Terabyte (loja oficial)",
       "obs": "",
@@ -179,18 +179,6 @@
       "link": "https://meli.la/1T4m7Vv",
       "destaque": false,
       "preco_pix": 3499.2
-    },
-    {
-      "titulo": "iPhone 17 256GB",
-      "categoria": "Celulares",
-      "preco": 5859.0,
-      "preco_antigo": 7999.0,
-      "loja": "Apple (loja oficial)",
-      "obs": "Na página, escolha a opção \"Parcelamento sem juros\" (compra normal, sem plano de troca).",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_641716-MLA94920239704_102025-O.webp",
-      "link": "https://meli.la/2oPJzd5",
-      "destaque": false,
-      "preco_pix": 5448.87
     },
     {
       "titulo": "Notebook Gamer Asus TUF – Core 5 210H, RTX 3050, 16GB, SSD 512GB, 144Hz",
@@ -231,7 +219,7 @@
     {
       "titulo": "Notebook Gamer Lenovo LOQ – i5-13450HX, RTX 3050, 8GB, SSD 512GB, 15,6\" 144Hz",
       "categoria": "Notebooks",
-      "preco": 4793.06,
+      "preco": 4649.27,
       "preco_antigo": 0,
       "loja": "Lenovo (loja oficial)",
       "obs": "Vem com Linux.",
@@ -250,7 +238,7 @@
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-O.webp",
       "link": "https://meli.la/2nbtxDJ",
       "destaque": true,
-      "preco_pix": 587.88
+      "preco_pix": 543.15
     },
     {
       "titulo": "Monitor Samsung Odyssey G5 27\" QHD 2K 165Hz",
@@ -262,17 +250,6 @@
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_929601-MLA99994006017_112025-O.webp",
       "link": "https://meli.la/254VDXR",
       "destaque": true
-    },
-    {
-      "titulo": "Monitor LG UltraGear 27\" Full HD 144Hz 1ms IPS (27G411B)",
-      "categoria": "Monitores",
-      "preco": 692.0,
-      "preco_antigo": 1039.0,
-      "loja": "LG (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_896633-MLA120723721883_112026-O.webp",
-      "link": "https://meli.la/2xrZzZu",
-      "destaque": false
     },
     {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
@@ -321,7 +298,7 @@
     {
       "titulo": "SSD Adata Legend 710 256GB NVMe M.2",
       "categoria": "Armazenamento",
-      "preco": 602.94,
+      "preco": 599.48,
       "preco_antigo": 768.05,
       "loja": "Terabyte (loja oficial)",
       "obs": "",
@@ -346,7 +323,7 @@
       "categoria": "Games",
       "preco": 399.0,
       "preco_pix": 371.07,
-      "preco_antigo": 562.02,
+      "preco_antigo": 499.9,
       "loja": "PlayStation (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
@@ -378,18 +355,6 @@
       "destaque": false
     },
     {
-      "titulo": "Monster Hunter Stories 3: Twisted Reflection – Switch 2",
-      "categoria": "Games",
-      "preco": 269.0,
-      "preco_pix": 242.1,
-      "preco_antigo": 399.9,
-      "loja": "Nintendo (loja oficial)",
-      "obs": "Oferta relâmpago: pode acabar a qualquer momento.",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756162-MLA107485360194_032026-O.webp",
-      "link": "https://meli.la/1ekv3Ka",
-      "destaque": false
-    },
-    {
       "titulo": "Câmbio Logitech G Driving Force Shifter (G29/G920/G923)",
       "categoria": "Periféricos",
       "preco": 289.0,
@@ -399,6 +364,18 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_686796-MLA99460829646_112025-O.webp",
       "link": "https://meli.la/2NSqJrS",
+      "destaque": false
+    },
+    {
+      "titulo": "Controle GameSir T4 Nova Lite sem fio (PC, Switch, Android, iOS) – Hall Effect",
+      "categoria": "Periféricos",
+      "preco": 168.78,
+      "preco_pix": 156.97,
+      "preco_antigo": 299.0,
+      "loja": "GameSir (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_628100-MLA99480320238_112025-O.webp",
+      "link": "https://meli.la/318ezWg",
       "destaque": false
     }
   ]
