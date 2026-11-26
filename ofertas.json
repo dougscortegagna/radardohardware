@@ -42,7 +42,8 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-O.webp",
       "link": "https://meli.la/1Aef1cV",
-      "destaque": true
+      "destaque": true,
+      "atalho": 9
     },
     {
       "titulo": "Monitor Gamer Samsung Odyssey G5 32\" QHD 165Hz 1ms",
@@ -53,7 +54,8 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_987462-MLA99509630578_112025-O.webp",
       "link": "https://meli.la/1rr9jHr",
-      "destaque": true
+      "destaque": true,
+      "atalho": 10
     },
     {
       "titulo": "Monitor Gamer LG UltraGear 34\" Curvo UltraWide QHD 160Hz 1ms (34G600A)",
@@ -320,7 +322,8 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_662169-MLA117742964682_102026-O.webp",
       "link": "https://meli.la/24UtXUX",
-      "destaque": false
+      "destaque": false,
+      "atalho": 11
     },
     {
       "titulo": "Headset Gamer Razer BlackShark V2 X 7.1",
@@ -331,7 +334,8 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_922242-MLA113387911608_072026-O.webp",
       "link": "https://meli.la/11Ke5a9",
-      "destaque": false
+      "destaque": false,
+      "atalho": 12
     }
   ]
 }
