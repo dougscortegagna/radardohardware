@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-25",
+  "atualizado": "2026-11-26",
   "links": {
     "whatsapp": "https://chat.whatsapp.com/CHeaeWX6i3b5tLQquJDWIB",
     "telegram": "https://t.me/radardohardware",
@@ -21,18 +21,6 @@
       "atalho": 5
     },
     {
-      "titulo": "Controle Nintendo Switch 2 Pro Controller (preto e branco)",
-      "categoria": "Games",
-      "preco": 464.07,
-      "preco_antigo": 0,
-      "loja": "KaBuM! (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_942900-MLB116547615735_082026-O.webp",
-      "link": "https://meli.la/1aDZrjx",
-      "destaque": true,
-      "atalho": 8
-    },
-    {
       "titulo": "Monitor Gamer Samsung Odyssey OLED G5 27\" QHD 180Hz 0,03ms",
       "categoria": "Monitores",
       "preco": 2788.99,
@@ -45,6 +33,29 @@
       "atalho": 4
     },
     {
+      "titulo": "Nintendo Switch OLED 64GB + Super Mario Bros. Wonder",
+      "categoria": "Games",
+      "preco": 1899.0,
+      "preco_pix": 1804.05,
+      "preco_antigo": 2699.0,
+      "loja": "Nintendo (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_928841-MLA93525033946_102025-O.webp",
+      "link": "https://meli.la/1Aef1cV",
+      "destaque": true
+    },
+    {
+      "titulo": "Monitor Gamer Samsung Odyssey G5 32\" QHD 165Hz 1ms",
+      "categoria": "Monitores",
+      "preco": 1104.0,
+      "preco_antigo": 1699.0,
+      "loja": "Samsung (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_987462-MLA99509630578_112025-O.webp",
+      "link": "https://meli.la/1rr9jHr",
+      "destaque": true
+    },
+    {
       "titulo": "Monitor Gamer LG UltraGear 34\" Curvo UltraWide QHD 160Hz 1ms (34G600A)",
       "categoria": "Monitores",
       "preco": 1799.0,
@@ -54,18 +65,6 @@
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_714205-MLA120725726433_112026-O.webp",
       "link": "https://meli.la/1RBPEV7",
       "destaque": true
-    },
-    {
-      "titulo": "Console PlayStation 5 Slim com leitor de disco + ASTRO BOT e Gran Turismo 7",
-      "categoria": "Games",
-      "preco": 5099.9,
-      "preco_antigo": 0,
-      "loja": "PlayStation (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_756719-MLA92558518158_092025-O.webp",
-      "link": "https://meli.la/1yE2hbW",
-      "destaque": true,
-      "preco_pix": 4844.9
     },
     {
       "titulo": "Console Nintendo Switch 2 (modelo nacional)",
@@ -103,59 +102,14 @@
       "preco_pix": 138.2
     },
     {
-      "titulo": "Mario Kart 8 Deluxe – Nintendo Switch (mídia física)",
-      "categoria": "Games",
-      "preco": 326.0,
-      "preco_antigo": 430.24,
-      "loja": "Gamer Hut (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_954659-MLA99372574674_112025-O.webp",
-      "link": "https://meli.la/2RLbtNX",
-      "destaque": false
-    },
-    {
       "titulo": "Volante Logitech G29 Driving Force (PS5/PS4/PC)",
       "categoria": "Games",
-      "preco": 1599.0,
+      "preco": 1559.0,
       "preco_antigo": 1999.9,
       "loja": "Logitech G (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_711222-MLB78588164830_082024-O.webp",
       "link": "https://meli.la/2HCQRgZ",
-      "destaque": false
-    },
-    {
-      "titulo": "Processador AMD Ryzen 7 5700X (8 núcleos, AM4)",
-      "categoria": "Processadores",
-      "preco": 1199.0,
-      "preco_antigo": 1519.0,
-      "loja": "TNT Info (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_871623-MLA92019646747_092025-O.webp",
-      "link": "https://meli.la/2usguPN",
-      "destaque": false
-    },
-    {
-      "titulo": "Processador AMD Ryzen 5 5500 (6 núcleos, AM4, com cooler)",
-      "categoria": "Processadores",
-      "preco": 529.9,
-      "preco_pix": 487.51,
-      "preco_antigo": 1060.68,
-      "loja": "Mega Byte",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_821363-MLA118014839321_092026-O.webp",
-      "link": "https://meli.la/2VqoGkh",
-      "destaque": false
-    },
-    {
-      "titulo": "Fonte MSI MAG A650GN II 650W 80 Plus Gold (ATX 3.1)",
-      "categoria": "Fontes",
-      "preco": 446.9,
-      "preco_antigo": 0,
-      "loja": "Gigantec (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_696988-MLA109968756871_042026-O.webp",
-      "link": "https://meli.la/1XFUz47",
       "destaque": false
     },
     {
@@ -232,7 +186,7 @@
     {
       "titulo": "Notebook Gamer Lenovo LOQ – i5-13450HX, RTX 3050, 8GB, SSD 512GB, 15,6\" 144Hz",
       "categoria": "Notebooks",
-      "preco": 4649.27,
+      "preco": 4749.0,
       "preco_antigo": 0,
       "loja": "Lenovo (loja oficial)",
       "obs": "Vem com Linux.",
@@ -240,29 +194,6 @@
       "link": "https://meli.la/1yVDAFe",
       "destaque": false,
       "atalho": 1
-    },
-    {
-      "titulo": "Monitor LG UltraGear 24\" Full HD 144Hz 1ms IPS (24G411A)",
-      "categoria": "Monitores",
-      "preco": 639.0,
-      "preco_antigo": 699.0,
-      "loja": "LG (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_685909-MLA101438581463_122025-O.webp",
-      "link": "https://meli.la/2nbtxDJ",
-      "destaque": true,
-      "preco_pix": 543.15
-    },
-    {
-      "titulo": "Monitor Samsung Odyssey G5 27\" QHD 2K 165Hz",
-      "categoria": "Monitores",
-      "preco": 982.23,
-      "preco_antigo": 1499.0,
-      "loja": "Samsung (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_929601-MLA99994006017_112025-O.webp",
-      "link": "https://meli.la/254VDXR",
-      "destaque": true
     },
     {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
@@ -278,7 +209,7 @@
     {
       "titulo": "Placa-mãe Gigabyte H610M H V3 DDR4 (VGA e HDMI)",
       "categoria": "Placas-mãe",
-      "preco": 633.32,
+      "preco": 588.88,
       "preco_antigo": 0,
       "loja": "KaBuM! (loja oficial)",
       "obs": "Entrega mais demorada (previsão: 1º de dezembro).",
@@ -289,34 +220,12 @@
     {
       "titulo": "Placa-mãe MSI A520M-A Pro (AM4, DDR4, mATX)",
       "categoria": "Placas-mãe",
-      "preco": 397.77,
+      "preco": 377.77,
       "preco_antigo": 0,
       "loja": "KaBuM! (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_625287-MLB120102215036_112026-O.webp",
       "link": "https://meli.la/1pZrisg",
-      "destaque": false
-    },
-    {
-      "titulo": "Memória Crucial Basics 8GB DDR4 3200MHz",
-      "categoria": "Memórias",
-      "preco": 534.4,
-      "preco_antigo": 846.48,
-      "loja": "Terabyte (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_676225-MLB111923736428_062026-O.webp",
-      "link": "https://meli.la/1FZ4Uxj",
-      "destaque": false
-    },
-    {
-      "titulo": "SSD Adata Legend 710 256GB NVMe M.2",
-      "categoria": "Armazenamento",
-      "preco": 599.48,
-      "preco_antigo": 768.05,
-      "loja": "Terabyte (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_740741-MLB111184574060_052026-O-ssd-adata-legend-710-256gb-m2-2280-nvme-leitura-2100mbs.webp",
-      "link": "https://meli.la/1KAkhaY",
       "destaque": false
     },
     {
@@ -344,19 +253,6 @@
       "destaque": false
     },
     {
-      "titulo": "Controle Xbox Series X|S sem fio – Azul Shock",
-      "categoria": "Games",
-      "preco": 399.9,
-      "preco_pix": 339.92,
-      "preco_antigo": 615.12,
-      "loja": "Mega Byte",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_838906-MLA86702461397_062025-O.webp",
-      "link": "https://meli.la/1Vfsn5a",
-      "destaque": false,
-      "atalho": 6
-    },
-    {
       "titulo": "Controle Nintendo Switch Pro",
       "categoria": "Games",
       "preco": 299.0,
@@ -371,7 +267,7 @@
     {
       "titulo": "Câmbio Logitech G Driving Force Shifter (G29/G920/G923)",
       "categoria": "Periféricos",
-      "preco": 289.0,
+      "preco": 279.9,
       "preco_pix": 260.1,
       "preco_antigo": 399.9,
       "loja": "Logitech G (loja oficial)",
@@ -392,6 +288,50 @@
       "link": "https://meli.la/318ezWg",
       "destaque": false,
       "atalho": 7
+    },
+    {
+      "titulo": "Volante Logitech G920 Driving Force (Xbox e PC)",
+      "categoria": "Games",
+      "preco": 1629.37,
+      "preco_antigo": 1999.9,
+      "loja": "Logitech G (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_686690-MLA99522251226_122025-O.webp",
+      "link": "https://meli.la/2onAAAd",
+      "destaque": false
+    },
+    {
+      "titulo": "Monitor LG UltraWide 29\" IPS 21:9 100Hz HDR10",
+      "categoria": "Monitores",
+      "preco": 979.0,
+      "preco_antigo": 1549.4,
+      "loja": "LG (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_863773-MLA96861169915_102025-O.webp",
+      "link": "https://meli.la/2g39SkZ",
+      "destaque": false
+    },
+    {
+      "titulo": "Mouse sem fio Logitech MX Master 3S – Grafite",
+      "categoria": "Periféricos",
+      "preco": 409.9,
+      "preco_antigo": 599.9,
+      "loja": "Logitech (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_662169-MLA117742964682_102026-O.webp",
+      "link": "https://meli.la/24UtXUX",
+      "destaque": false
+    },
+    {
+      "titulo": "Headset Gamer Razer BlackShark V2 X 7.1",
+      "categoria": "Periféricos",
+      "preco": 285.89,
+      "preco_antigo": 399.99,
+      "loja": "Razer (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_922242-MLA113387911608_072026-O.webp",
+      "link": "https://meli.la/11Ke5a9",
+      "destaque": false
     }
   ]
 }
