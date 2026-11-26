@@ -22,6 +22,32 @@
       "atalho": 15
     },
     {
+      "titulo": "Processador Intel Core i5-12400 – 6 núcleos/12 threads, até 4.4GHz, LGA 1700, com vídeo",
+      "categoria": "Processadores",
+      "preco": 1164.69,
+      "preco_pix": 791.99,
+      "preco_antigo": 1529.4,
+      "loja": "KaBuM!",
+      "obs": "Cupom BLACKINTEL (20% OFF). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/283713/processador-intel-core-i5-12400-cache-xmb-xghz-xghz-max-turbo-lga-1700-bx8071512400_1640031464_p.jpg",
+      "link": "https://tidd.ly/4zJSH3c",
+      "destaque": true,
+      "atalho": 17
+    },
+    {
+      "titulo": "MacBook Neo Apple 13\" – Chip A18 Pro, 256GB, Prateado",
+      "categoria": "Notebooks",
+      "preco": 6666.6,
+      "preco_pix": 5399.99,
+      "preco_antigo": 8332.22,
+      "loja": "KaBuM!",
+      "obs": "Cupom MACNEO10 (10% OFF). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/1015057/macbook-neo-apple-13-chip-a18-pro-cpu-de-6-nucleos-gpu-de-5-nucleos-256gb-prateado-mhfa4bz-a_1774873804_p.jpg",
+      "link": "https://tidd.ly/4zIXAJS",
+      "destaque": true,
+      "atalho": 18
+    },
+    {
       "titulo": "GTA VI – PS5 (mídia física)",
       "categoria": "Games",
       "preco": 449.9,
@@ -211,18 +237,6 @@
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_762997-MLB118252236497_092026-F-amd-ryzen-7-5700x-100100000926wof-8-nucleos-46ghz.webp",
       "link": "https://meli.la/326yG5o",
       "destaque": false
-    },
-    {
-      "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
-      "categoria": "Processadores",
-      "preco": 1199.0,
-      "preco_antigo": 1766.9,
-      "loja": "CHIPART",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_766425-MLA91568651122_092025-O.webp",
-      "link": "https://meli.la/1eDrVjX",
-      "destaque": false,
-      "preco_pix": 1099.0
     },
     {
       "titulo": "Placa-mãe Gigabyte H610M H V3 DDR4 (VGA e HDMI)",
