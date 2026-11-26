@@ -9,6 +9,19 @@
   },
   "ofertas": [
     {
+      "titulo": "Notebook Acer Aspire Go 15 – Core i5-13420H, 16GB DDR5, SSD 512GB, 15,6\" FHD",
+      "categoria": "Notebooks",
+      "preco": 4881.1,
+      "preco_pix": 3319.2,
+      "preco_antigo": 0,
+      "loja": "KaBuM!",
+      "obs": "Cupom ACER20 (ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702840-MLA99396320340_112025-O.webp",
+      "link": "https://tidd.ly/4A977ex",
+      "destaque": true,
+      "atalho": 15
+    },
+    {
       "titulo": "GTA VI – PS5 (mídia física)",
       "categoria": "Games",
       "preco": 449.9,
@@ -31,31 +44,6 @@
       "link": "https://meli.la/1iZWzdQ",
       "destaque": true,
       "atalho": 4
-    },
-    {
-      "titulo": "Samsung Smart TV 50\" Mini LED 4K M75H",
-      "categoria": "TVs",
-      "preco": 2199.0,
-      "preco_antigo": 3799.0,
-      "loja": "Samsung (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_829406-MLA116062248430_092026-O.webp",
-      "link": "https://meli.la/2sU11Hn",
-      "destaque": true,
-      "atalho": 13
-    },
-    {
-      "titulo": "Notebook Acer Aspire Go 15 – Core i5-13420H, 16GB DDR5, SSD 512GB, 15,6\" FHD",
-      "categoria": "Notebooks",
-      "preco": 4881.1,
-      "preco_pix": 4149.0,
-      "preco_antigo": 0,
-      "loja": "KaBuM!",
-      "obs": "Oferta válida enquanto durarem os estoques.",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702840-MLA99396320340_112025-O.webp",
-      "link": "https://tidd.ly/4A977ex",
-      "destaque": true,
-      "atalho": 15
     },
     {
       "titulo": "Nintendo Switch OLED 64GB + Super Mario Bros. Wonder",
@@ -129,17 +117,6 @@
       "preco_pix": 138.2
     },
     {
-      "titulo": "Volante Logitech G29 Driving Force (PS5/PS4/PC)",
-      "categoria": "Games",
-      "preco": 1559.0,
-      "preco_antigo": 1999.9,
-      "loja": "Logitech G (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_711222-MLB78588164830_082024-O.webp",
-      "link": "https://meli.la/2HCQRgZ",
-      "destaque": false
-    },
-    {
       "titulo": "Gabinete Montech X3 Glass Branco (Mid Tower, 6 fans)",
       "categoria": "Gabinetes",
       "preco": 426.77,
@@ -177,8 +154,8 @@
     {
       "titulo": "Notebook Gamer Asus TUF – Core 5 210H, RTX 3050, 16GB, SSD 512GB, 144Hz",
       "categoria": "Notebooks",
-      "preco": 6179.0,
-      "preco_antigo": 6599.0,
+      "preco": 5599.0,
+      "preco_antigo": 7299.0,
       "loja": "Asus (loja oficial)",
       "obs": "Vem com Linux.",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_633671-MLB117449694450_102026-O.webp",
@@ -197,7 +174,7 @@
       "link": "https://meli.la/1dykJen",
       "destaque": false,
       "atalho": 2,
-      "preco_pix": 5299.0
+      "preco_pix": 5099.0
     },
     {
       "titulo": "Notebook Gamer Acer Nitro V 16 – Core 7 240H, RTX 5060 8GB, 16GB DDR5, SSD 512GB, 16\" 165Hz",
@@ -208,19 +185,32 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_603530-MLA119035516601_102026-O.webp",
       "link": "https://meli.la/1UvLUxc",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 8499.0
     },
     {
       "titulo": "Notebook Gamer Lenovo LOQ – i5-13450HX, RTX 3050, 8GB, SSD 512GB, 15,6\" 144Hz",
       "categoria": "Notebooks",
-      "preco": 4749.0,
+      "preco": 4679.0,
       "preco_antigo": 0,
       "loja": "Lenovo (loja oficial)",
       "obs": "Vem com Linux.",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_909033-MLB121931577737_112026-O.webp",
       "link": "https://meli.la/1yVDAFe",
       "destaque": false,
-      "atalho": 1
+      "atalho": 1,
+      "preco_pix": 4579.0
+    },
+    {
+      "titulo": "Processador AMD Ryzen 7 5700X 8 núcleos até 4.6GHz (AM4)",
+      "categoria": "Processadores",
+      "preco": 1399.9,
+      "preco_antigo": 2153.9,
+      "loja": "Mega Byte (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_762997-MLB118252236497_092026-F-amd-ryzen-7-5700x-100100000926wof-8-nucleos-46ghz.webp",
+      "link": "https://meli.la/326yG5o",
+      "destaque": false
     },
     {
       "titulo": "Processador Intel Core i5-12400 (Box, com vídeo integrado)",
@@ -231,7 +221,8 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_766425-MLA91568651122_092025-O.webp",
       "link": "https://meli.la/1eDrVjX",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 1099.0
     },
     {
       "titulo": "Placa-mãe Gigabyte H610M H V3 DDR4 (VGA e HDMI)",
@@ -268,18 +259,6 @@
       "preco_pix": 552.49
     },
     {
-      "titulo": "Controle DualSense PS5 – Midnight Black",
-      "categoria": "Games",
-      "preco": 399.0,
-      "preco_pix": 371.07,
-      "preco_antigo": 499.9,
-      "loja": "PlayStation (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_759059-MLA99508283678_112025-O.webp",
-      "link": "https://meli.la/1ApTADW",
-      "destaque": false
-    },
-    {
       "titulo": "Controle Nintendo Switch Pro",
       "categoria": "Games",
       "preco": 299.0,
@@ -295,7 +274,7 @@
       "titulo": "Câmbio Logitech G Driving Force Shifter (G29/G920/G923)",
       "categoria": "Periféricos",
       "preco": 279.9,
-      "preco_pix": 260.1,
+      "preco_pix": 251.91,
       "preco_antigo": 399.9,
       "loja": "Logitech G (loja oficial)",
       "obs": "",
@@ -325,6 +304,17 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_686690-MLA99522251226_122025-O.webp",
       "link": "https://meli.la/2onAAAd",
+      "destaque": false
+    },
+    {
+      "titulo": "Monitor Gamer LG UltraGear 27\" IPS Full HD 144Hz 1ms G-Sync/FreeSync (27G411B)",
+      "categoria": "Monitores",
+      "preco": 692.0,
+      "preco_antigo": 1039.0,
+      "loja": "LG (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_896633-MLA120723721883_112026-F.webp",
+      "link": "https://meli.la/2xrZzZu",
       "destaque": false
     },
     {
