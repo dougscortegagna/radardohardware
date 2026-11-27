@@ -132,6 +132,19 @@
       "destaque": true
     },
     {
+      "titulo": "Samsung Galaxy A57 5G 128GB Cinza + Galaxy Watch9 BT 44mm Grafite",
+      "categoria": "Celulares",
+      "preco": 2847.99,
+      "preco_pix": 2563.19,
+      "preco_antigo": 2998.0,
+      "loja": "Samsung (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901468-MLA122312329281_112026-O.webp",
+      "link": "https://meli.la/2rn3C7p",
+      "destaque": true,
+      "atalho": 23
+    },
+    {
       "titulo": "Console Nintendo Switch 2 (modelo nacional)",
       "categoria": "Games",
       "preco": 4599.9,
