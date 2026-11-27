@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-26",
+  "atualizado": "2026-11-27",
   "links": {
     "whatsapp": "https://chat.whatsapp.com/CHeaeWX6i3b5tLQquJDWIB",
     "telegram": "https://t.me/radardohardware",
@@ -9,17 +9,16 @@
   },
   "ofertas": [
     {
-      "titulo": "Notebook Acer Aspire Go 15 – Core i5-13420H, 16GB DDR5, SSD 512GB, 15,6\" FHD",
-      "categoria": "Notebooks",
-      "preco": 4881.1,
-      "preco_pix": 3319.2,
-      "preco_antigo": 0,
+      "titulo": "Console PlayStation 5 com Leitor de Discos, SSD 1TB + Gran Turismo 7 e Astro Bot",
+      "categoria": "Games",
+      "preco": 4499.0,
+      "preco_antigo": 5114.07,
       "loja": "KaBuM!",
-      "obs": "Cupom ACER20 (ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_702840-MLA99396320340_112025-O.webp",
-      "link": "https://tidd.ly/4A977ex",
+      "obs": "Cupom BORABLACK (ative na página do produto) · em 10x sem juros. Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/934759/console-sony-playstation-5-com-leitor-de-discos-ssd-1tb-controle-sem-fio-dualsense-2-jogos_1760736613_p.jpg",
+      "link": "https://tidd.ly/4tsiZps",
       "destaque": true,
-      "atalho": 15
+      "atalho": 22
     },
     {
       "titulo": "Processador Intel Core i5-12400 – 6 núcleos/12 threads, até 4.4GHz, LGA 1700, com vídeo",
@@ -61,43 +60,6 @@
       "atalho": 21
     },
     {
-      "titulo": "Console Nintendo Switch 2 + Mario Kart World (Bundle) – Preto",
-      "categoria": "Games",
-      "preco": 3765.79,
-      "preco_pix": 3539.84,
-      "preco_antigo": 5646.0,
-      "loja": "Nintendo (loja oficial)",
-      "obs": "Cupom MODOTECH (ative na página do produto).",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_641158-MLA109275161040_042026-F.webp",
-      "link": "https://meli.la/25hJsWb",
-      "destaque": true,
-      "atalho": 20
-    },
-    {
-      "titulo": "Console PlayStation 5 Slim Edição Digital 825GB – Branco",
-      "categoria": "Games",
-      "preco": 3849.23,
-      "preco_antigo": 4999.0,
-      "loja": "ESHOP (MercadoLíder)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_850278-MLA99917137505_112025-F.webp",
-      "link": "https://meli.la/11UKcVA",
-      "destaque": true,
-      "atalho": 19
-    },
-    {
-      "titulo": "GTA VI – PS5 (mídia física)",
-      "categoria": "Games",
-      "preco": 449.9,
-      "preco_antigo": 0,
-      "loja": "KaBuM! (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_857766-MLB121839404507_112026-O.webp",
-      "link": "https://meli.la/1hyg7hY",
-      "destaque": true,
-      "atalho": 5
-    },
-    {
       "titulo": "Monitor Gamer Samsung Odyssey OLED G5 27\" QHD 180Hz 0,03ms",
       "categoria": "Monitores",
       "preco": 2788.99,
@@ -125,7 +87,7 @@
     {
       "titulo": "Monitor Gamer Samsung Odyssey G5 32\" QHD 165Hz 1ms",
       "categoria": "Monitores",
-      "preco": 1104.0,
+      "preco": 1103.97,
       "preco_antigo": 1699.0,
       "loja": "Samsung (loja oficial)",
       "obs": "",
@@ -243,27 +205,14 @@
     {
       "titulo": "Notebook Gamer Acer Nitro V 16 – Core 7 240H, RTX 5060 8GB, 16GB DDR5, SSD 512GB, 16\" 165Hz",
       "categoria": "Notebooks",
-      "preco": 8899.0,
+      "preco": 8599.0,
       "preco_antigo": 13255.27,
       "loja": "Acer (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_603530-MLA119035516601_102026-O.webp",
       "link": "https://meli.la/1UvLUxc",
       "destaque": false,
-      "preco_pix": 8499.0
-    },
-    {
-      "titulo": "Notebook Gamer Lenovo LOQ – i5-13450HX, RTX 3050, 8GB, SSD 512GB, 15,6\" 144Hz",
-      "categoria": "Notebooks",
-      "preco": 4679.0,
-      "preco_antigo": 0,
-      "loja": "Lenovo (loja oficial)",
-      "obs": "Vem com Linux.",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_909033-MLB121931577737_112026-O.webp",
-      "link": "https://meli.la/1yVDAFe",
-      "destaque": false,
-      "atalho": 1,
-      "preco_pix": 4579.0
+      "preco_pix": 8199.0
     },
     {
       "titulo": "Processador AMD Ryzen 7 5700X 8 núcleos até 4.6GHz (AM4)",
@@ -359,17 +308,6 @@
       "destaque": false
     },
     {
-      "titulo": "Monitor Gamer LG UltraGear 27\" IPS Full HD 144Hz 1ms G-Sync/FreeSync (27G411B)",
-      "categoria": "Monitores",
-      "preco": 692.0,
-      "preco_antigo": 1039.0,
-      "loja": "LG (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_896633-MLA120723721883_112026-F.webp",
-      "link": "https://meli.la/2xrZzZu",
-      "destaque": false
-    },
-    {
       "titulo": "Monitor LG UltraWide 29\" IPS 21:9 100Hz HDR10",
       "categoria": "Monitores",
       "preco": 979.0,
@@ -391,19 +329,21 @@
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_662169-MLA117742964682_102026-O.webp",
       "link": "https://meli.la/24UtXUX",
       "destaque": false,
-      "atalho": 11
+      "atalho": 11,
+      "preco_pix": 368.91
     },
     {
       "titulo": "Headset Gamer Razer BlackShark V2 X 7.1",
       "categoria": "Periféricos",
-      "preco": 285.89,
+      "preco": 285.0,
       "preco_antigo": 399.99,
       "loja": "Razer (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_922242-MLA113387911608_072026-O.webp",
       "link": "https://meli.la/11Ke5a9",
       "destaque": false,
-      "atalho": 12
+      "atalho": 12,
+      "preco_pix": 276.45
     }
   ]
 }
