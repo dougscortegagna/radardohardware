@@ -21,6 +21,30 @@
       "atalho": 22
     },
     {
+      "titulo": "Notebook Gamer Acer Nitro V16 – Core 5 210H, RTX 5060, 8GB, SSD 512GB, 16\" WUXGA",
+      "categoria": "Notebooks",
+      "preco": 6599.0,
+      "preco_pix": 6399.0,
+      "preco_antigo": 9999.0,
+      "loja": "Acer (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_660704-MLA122462448705_112026-F.webp",
+      "link": "https://meli.la/1EDseUS",
+      "destaque": true
+    },
+    {
+      "titulo": "Processador AMD Ryzen 5 5600XT – 6 núcleos/12 threads, até 4.7GHz, AM4",
+      "categoria": "Processadores",
+      "preco": 1247.0,
+      "preco_pix": 890.36,
+      "preco_antigo": 1882.34,
+      "loja": "KaBuM!",
+      "obs": "Cupom AGORA5600XT (16% OFF, ative na página). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
+      "imagem": "https://images.kabum.com.br/produtos/fotos/937012/processador-amd-ryzen-5-5600xt-3-7ghz-4-7ghz-max-turbo-cache-32mb-6-nuleos-100-100001585box_1759847098_p.jpg",
+      "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=3161306&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F937012",
+      "destaque": true
+    },
+    {
       "titulo": "Processador Intel Core i5-12400 – 6 núcleos/12 threads, até 4.4GHz, LGA 1700, com vídeo",
       "categoria": "Processadores",
       "preco": 1164.69,
@@ -62,7 +86,7 @@
     {
       "titulo": "Monitor Gamer Samsung Odyssey OLED G5 27\" QHD 180Hz 0,03ms",
       "categoria": "Monitores",
-      "preco": 2788.99,
+      "preco": 2510.09,
       "preco_antigo": 2999.0,
       "loja": "Samsung (loja oficial)",
       "obs": "",
@@ -344,6 +368,30 @@
       "destaque": false,
       "atalho": 12,
       "preco_pix": 276.45
+    },
+    {
+      "titulo": "Notebook Gamer ASUS TUF A16 – Ryzen 7, RTX 4050, 16GB, SSD 512GB, 16\" 144Hz, Windows 11",
+      "categoria": "Notebooks",
+      "preco": 7249.0,
+      "preco_pix": 6669.0,
+      "preco_antigo": 8799.0,
+      "loja": "Asus (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_674142-MLA113181191955_062026-F.webp",
+      "link": "https://meli.la/2w5Qk67",
+      "destaque": false
+    },
+    {
+      "titulo": "Notebook Dell 15 – Core i5-1334U, 8GB, SSD 512GB, 15,6\" FHD, Windows 11",
+      "categoria": "Notebooks",
+      "preco": 4368.9,
+      "preco_pix": 3499.0,
+      "preco_antigo": 5524.0,
+      "loja": "Dell (loja oficial)",
+      "obs": "",
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_602930-MLA111944189869_052026-F.webp",
+      "link": "https://meli.la/1hhH2dY",
+      "destaque": false
     }
   ]
 }
