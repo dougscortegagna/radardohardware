@@ -9,6 +9,19 @@
   },
   "ofertas": [
     {
+      "titulo": "Notebook Gamer Acer Nitro V15 – Core i7, RTX 4050 6GB, 16GB, SSD 512GB, 15,6\" 165Hz",
+      "categoria": "Notebooks",
+      "preco": 6199.0,
+      "preco_pix": 5611.08,
+      "preco_antigo": 0,
+      "loja": "Magalu (loja oficial na Shopee)",
+      "obs": "No Pix com o cupom da loja (aparece na página do produto). Frete grátis.",
+      "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-8259q-mvnhf0x4zzsx6e",
+      "link": "https://s.shopee.com.br/2Vtcw9FYB7",
+      "destaque": true,
+      "atalho": 26
+    },
+    {
       "titulo": "Processador AMD Ryzen 7 5800X3D – 8 núcleos/16 threads, 3D V-Cache, AM4",
       "categoria": "Processadores",
       "preco": 2235.2,
