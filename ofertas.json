@@ -9,18 +9,6 @@
   },
   "ofertas": [
     {
-      "titulo": "Console PlayStation 5 com Leitor de Discos, SSD 1TB + Gran Turismo 7 e Astro Bot",
-      "categoria": "Games",
-      "preco": 4499.0,
-      "preco_antigo": 5114.07,
-      "loja": "KaBuM!",
-      "obs": "Cupom BORABLACK (ative na página do produto) · em 10x sem juros. Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/934759/console-sony-playstation-5-com-leitor-de-discos-ssd-1tb-controle-sem-fio-dualsense-2-jogos_1760736613_p.jpg",
-      "link": "https://tidd.ly/4tsiZps",
-      "destaque": true,
-      "atalho": 22
-    },
-    {
       "titulo": "Notebook Gamer Acer Nitro V16 – Core 5 210H, RTX 5060, 8GB, SSD 512GB, 16\" WUXGA",
       "categoria": "Notebooks",
       "preco": 6599.0,
