@@ -81,6 +81,8 @@
   </nav>
   <p class="note">🎟️ Os <b>cupons de desconto</b> saem primeiro nos grupos — esgotam rápido!</p>
 
+  <div id="grupos"></div>
+
   <section class="insta" id="insta" hidden>
     <h2>📸 Vistos no Instagram</h2>
     <p class="sub">Viu no post? Toque no número do atalho.</p>
@@ -125,6 +127,11 @@
       </a>`;
     };
     const desc = (o) => (o.preco_antigo > menor(o) ? 1 - menor(o) / o.preco_antigo : 0);
+    document.getElementById('grupos').innerHTML = (d.grupos || []).map((g) => {
+      const its = ofs.filter((o) => o.grupo === g.id);
+      if (!its.length) return '';
+      return `<section class="insta"><h2>${esc(g.titulo)}</h2>${g.sub ? `<p class="sub">${esc(g.sub)}</p>` : ''}<div class="list">${its.map((o) => card(o, false)).join('')}</div></section>`;
+    }).join('');
     const atalhos = ofs.filter((o) => Number(o.atalho) > 0).sort((x, y) => y.atalho - x.atalho);
     if (atalhos.length) { document.getElementById('insta-lista').innerHTML = atalhos.map((o) => card(o, true)).join(''); document.getElementById('insta').hidden = false; }
     const lista = [...ofs.filter((o) => o.destaque), ...ofs.filter((o) => !o.destaque).sort((x, y) => desc(y) - desc(x))].slice(0, 12);
