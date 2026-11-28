@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-27",
+  "atualizado": "2026-11-28",
   "links": {
     "whatsapp": "https://chat.whatsapp.com/CHeaeWX6i3b5tLQquJDWIB",
     "telegram": "https://t.me/radardohardware",
@@ -8,19 +8,6 @@
     "x": "https://x.com/radardohardware"
   },
   "ofertas": [
-    {
-      "titulo": "Notebook Gamer Acer Nitro V15 – Core i7, RTX 4050 6GB, 16GB, SSD 512GB, 15,6\" 165Hz",
-      "categoria": "Notebooks",
-      "preco": 6199.0,
-      "preco_pix": 5611.08,
-      "preco_antigo": 0,
-      "loja": "Magalu (loja oficial na Shopee)",
-      "obs": "No Pix com o cupom da loja (aparece na página do produto). Frete grátis.",
-      "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-8259q-mvnhf0x4zzsx6e",
-      "link": "https://s.shopee.com.br/2Vtcw9FYB7",
-      "destaque": true,
-      "atalho": 26
-    },
     {
       "titulo": "Processador AMD Ryzen 7 5800X3D – 8 núcleos/16 threads, 3D V-Cache, AM4",
       "categoria": "Processadores",
@@ -35,54 +22,16 @@
       "atalho": 25
     },
     {
-      "titulo": "Notebook Gamer Acer Nitro V16 – Core 5 210H, RTX 5060, 8GB, SSD 512GB, 16\" WUXGA",
-      "categoria": "Notebooks",
-      "preco": 6599.0,
-      "preco_pix": 6399.0,
-      "preco_antigo": 9999.0,
-      "loja": "Acer (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_660704-MLA122462448705_112026-F.webp",
-      "link": "https://meli.la/1EDseUS",
-      "destaque": true
-    },
-    {
       "titulo": "Processador AMD Ryzen 5 5600XT – 6 núcleos/12 threads, até 4.7GHz, AM4",
       "categoria": "Processadores",
-      "preco": 1247.0,
-      "preco_pix": 890.36,
-      "preco_antigo": 1882.34,
+      "preco": 1023.52,
+      "preco_pix": 869.99,
+      "preco_antigo": 0,
       "loja": "KaBuM!",
-      "obs": "Cupom AGORA5600XT (16% OFF, ative na página). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
+      "obs": "Oferta válida enquanto durarem os estoques.",
       "imagem": "https://images.kabum.com.br/produtos/fotos/937012/processador-amd-ryzen-5-5600xt-3-7ghz-4-7ghz-max-turbo-cache-32mb-6-nuleos-100-100001585box_1759847098_p.jpg",
       "link": "https://www.awin1.com/cread.php?awinmid=17729&awinaffid=3161306&ued=https%3A%2F%2Fwww.kabum.com.br%2Fproduto%2F937012",
       "destaque": true
-    },
-    {
-      "titulo": "Processador Intel Core i5-12400 – 6 núcleos/12 threads, até 4.4GHz, LGA 1700, com vídeo",
-      "categoria": "Processadores",
-      "preco": 1164.69,
-      "preco_pix": 791.99,
-      "preco_antigo": 1529.4,
-      "loja": "KaBuM!",
-      "obs": "Cupom BLACKINTEL (20% OFF). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/283713/processador-intel-core-i5-12400-cache-xmb-xghz-xghz-max-turbo-lga-1700-bx8071512400_1640031464_p.jpg",
-      "link": "https://tidd.ly/4zJSH3c",
-      "destaque": true,
-      "atalho": 17
-    },
-    {
-      "titulo": "MacBook Neo Apple 13\" – Chip A18 Pro, 256GB, Prateado",
-      "categoria": "Notebooks",
-      "preco": 6666.6,
-      "preco_pix": 5399.99,
-      "preco_antigo": 8332.22,
-      "loja": "KaBuM!",
-      "obs": "Cupom MACNEO10 (10% OFF). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/1015057/macbook-neo-apple-13-chip-a18-pro-cpu-de-6-nucleos-gpu-de-5-nucleos-256gb-prateado-mhfa4bz-a_1774873804_p.jpg",
-      "link": "https://tidd.ly/4zIXAJS",
-      "destaque": true,
-      "atalho": 18
     },
     {
       "titulo": "Controle DualSense Edição Limitada Gran Turismo – PS5 (pré-venda, envio a partir de 10/12)",
@@ -125,7 +74,7 @@
     {
       "titulo": "Monitor Gamer Samsung Odyssey G5 32\" QHD 165Hz 1ms",
       "categoria": "Monitores",
-      "preco": 1103.97,
+      "preco": 1090.0,
       "preco_antigo": 1699.0,
       "loja": "Samsung (loja oficial)",
       "obs": "",
@@ -170,29 +119,6 @@
       "link": "https://tidd.ly/4jiAELm",
       "destaque": true,
       "atalho": 24
-    },
-    {
-      "titulo": "Console Nintendo Switch 2 (modelo nacional)",
-      "categoria": "Games",
-      "preco": 4599.9,
-      "preco_antigo": 0,
-      "loja": "Nintendo (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_785396-MLA99867558581_112025-O.webp",
-      "link": "https://meli.la/1Gwpcwg",
-      "destaque": false,
-      "preco_pix": 4277.91
-    },
-    {
-      "titulo": "Zelda: Tears of the Kingdom – Nintendo Switch (digital)",
-      "categoria": "Games",
-      "preco": 389.9,
-      "preco_antigo": 0,
-      "loja": "Nintendo (loja oficial)",
-      "obs": "Jogo digital: o código chega por e-mail.",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_655517-MLA116493596099_082026-O.webp",
-      "link": "https://meli.la/2PsZJHQ",
-      "destaque": false
     },
     {
       "titulo": "GTA V – PS5 (mídia física)",
@@ -247,47 +173,12 @@
       "preco": 5599.0,
       "preco_antigo": 7299.0,
       "loja": "Asus (loja oficial)",
-      "obs": "Vem com Linux.",
+      "obs": "Vem com Linux. Preço no Pix com cupom Meli+ (para assinantes).",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_633671-MLB117449694450_102026-O.webp",
       "link": "https://meli.la/1Tg9yBF",
       "destaque": false,
-      "atalho": 3
-    },
-    {
-      "titulo": "Notebook Gamer Acer Nitro V15 – i5-13420H, RTX 4050 6GB, 8GB DDR5, SSD 512GB, 15,6\" 165Hz",
-      "categoria": "Notebooks",
-      "preco": 5499.0,
-      "preco_antigo": 7999.0,
-      "loja": "Acer (loja oficial)",
-      "obs": "Vem com Linux.",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_979248-MLA113556229593_062026-O.webp",
-      "link": "https://meli.la/1dykJen",
-      "destaque": false,
-      "atalho": 2,
-      "preco_pix": 5099.0
-    },
-    {
-      "titulo": "Notebook Gamer Acer Nitro V 16 – Core 7 240H, RTX 5060 8GB, 16GB DDR5, SSD 512GB, 16\" 165Hz",
-      "categoria": "Notebooks",
-      "preco": 8599.0,
-      "preco_antigo": 13255.27,
-      "loja": "Acer (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_603530-MLA119035516601_102026-O.webp",
-      "link": "https://meli.la/1UvLUxc",
-      "destaque": false,
-      "preco_pix": 8199.0
-    },
-    {
-      "titulo": "Processador AMD Ryzen 7 5700X 8 núcleos até 4.6GHz (AM4)",
-      "categoria": "Processadores",
-      "preco": 1399.9,
-      "preco_antigo": 2153.9,
-      "loja": "Mega Byte (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_762997-MLB118252236497_092026-F-amd-ryzen-7-5700x-100100000926wof-8-nucleos-46ghz.webp",
-      "link": "https://meli.la/326yG5o",
-      "destaque": false
+      "atalho": 3,
+      "preco_pix": 4883.0
     },
     {
       "titulo": "Placa-mãe Gigabyte H610M H V3 DDR4 (VGA e HDMI)",
@@ -309,31 +200,8 @@
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_625287-MLB120102215036_112026-O.webp",
       "link": "https://meli.la/1pZrisg",
-      "destaque": false
-    },
-    {
-      "titulo": "Memória Kingston Fury Beast 8GB DDR4 3200MHz",
-      "categoria": "Memórias",
-      "preco": 649.99,
-      "preco_antigo": 0,
-      "loja": "KaBuM! (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_881983-MLB119478020868_112026-O.webp",
-      "link": "https://meli.la/2Lwnrxf",
       "destaque": false,
-      "preco_pix": 552.49
-    },
-    {
-      "titulo": "Controle Nintendo Switch Pro",
-      "categoria": "Games",
-      "preco": 299.0,
-      "preco_pix": 278.07,
-      "preco_antigo": 399.0,
-      "loja": "Nintendo (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_901414-MLA99504976988_112025-O.webp",
-      "link": "https://meli.la/1YMrH7J",
-      "destaque": false
+      "preco_pix": 321.1
     },
     {
       "titulo": "Câmbio Logitech G Driving Force Shifter (G29/G920/G923)",
@@ -363,13 +231,14 @@
     {
       "titulo": "Volante Logitech G920 Driving Force (Xbox e PC)",
       "categoria": "Games",
-      "preco": 1629.37,
+      "preco": 1599.0,
       "preco_antigo": 1999.9,
       "loja": "Logitech G (loja oficial)",
       "obs": "",
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_686690-MLA99522251226_122025-O.webp",
       "link": "https://meli.la/2onAAAd",
-      "destaque": false
+      "destaque": false,
+      "preco_pix": 1439.0
     },
     {
       "titulo": "Monitor LG UltraWide 29\" IPS 21:9 100Hz HDR10",
@@ -407,7 +276,7 @@
       "link": "https://meli.la/11Ke5a9",
       "destaque": false,
       "atalho": 12,
-      "preco_pix": 276.45
+      "preco_pix": 279.99
     },
     {
       "titulo": "Notebook Gamer ASUS TUF A16 – Ryzen 7, RTX 4050, 16GB, SSD 512GB, 16\" 144Hz, Windows 11",
@@ -420,298 +289,7 @@
       "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_674142-MLA113181191955_062026-F.webp",
       "link": "https://meli.la/2w5Qk67",
       "destaque": false
-    },
-    {
-      "titulo": "Notebook Dell 15 – Core i5-1334U, 8GB, SSD 512GB, 15,6\" FHD, Windows 11",
-      "categoria": "Notebooks",
-      "preco": 4368.9,
-      "preco_pix": 3499.0,
-      "preco_antigo": 5524.0,
-      "loja": "Dell (loja oficial)",
-      "obs": "",
-      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_602930-MLA111944189869_052026-F.webp",
-      "link": "https://meli.la/1hhH2dY",
-      "destaque": false
-    },
-    {
-      "titulo": "Jogo The Last of Us Parte I – PS5",
-      "categoria": "Games",
-      "preco": 157.17,
-      "preco_pix": 110.02,
-      "preco_antigo": 157.17,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/364073/jogo-the-last-of-us-parte-1-ps5_1656101656_g.jpg",
-      "link": "https://tidd.ly/4CsNY8H",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo The Last of Us Part II Remastered – PS5",
-      "categoria": "Games",
-      "preco": 157.17,
-      "preco_pix": 110.02,
-      "preco_antigo": 157.17,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/511295/jogo-the-last-of-us-part-ii-remastered-ps5-1000030252_1701810116_g.jpg",
-      "link": "https://tidd.ly/3X78VGf",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo God of War Ragnarök – PS5",
-      "categoria": "Games",
-      "preco": 157.17,
-      "preco_pix": 110.02,
-      "preco_antigo": 157.17,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/396722/jogo-god-of-war-ragnar-k-edicao-standard-ps5-_1666892140_g.jpg",
-      "link": "https://tidd.ly/4Ad6v7q",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Marvel's Spider-Man 2 – PS5",
-      "categoria": "Games",
-      "preco": 157.17,
-      "preco_pix": 110.02,
-      "preco_antigo": 157.17,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/497565/jogo-marvel-s-spider-man-2-ps5_1696273362_g.jpg",
-      "link": "https://tidd.ly/4CjzqZ0",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Spider-Man: Miles Morales – PS5",
-      "categoria": "Games",
-      "preco": 106.02,
-      "preco_pix": 74.21,
-      "preco_antigo": 106.02,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/128369/game-marvel-s-spider-man-miles-morales-ps5_1600863136_g.jpg",
-      "link": "https://tidd.ly/4CKo14X",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Horizon Forbidden West Complete – PS5",
-      "categoria": "Games",
-      "preco": 212.97,
-      "preco_pix": 149.08,
-      "preco_antigo": 212.97,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/497785/jogo-horizon-forbidden-west-complete-edition-ps5-1000030398_1698418516_g.jpg",
-      "link": "https://tidd.ly/49mpf8K",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Gran Turismo 7 – PS5",
-      "categoria": "Games",
-      "preco": 157.17,
-      "preco_pix": 110.02,
-      "preco_antigo": 157.17,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/238134/jogo-gran-turismo-7-edicao-standart-ps5_1659097069_g.jpg",
-      "link": "https://tidd.ly/4j4UBqj",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Astro Bot – PS5",
-      "categoria": "Games",
-      "preco": 295.9,
-      "preco_pix": 207.13,
-      "preco_antigo": 295.9,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/609663/jogo-astro-bot-ps5-1000044301_1720707275_g.jpg",
-      "link": "https://tidd.ly/4jhSgXR",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Uncharted: Legado dos Ladrões – PS5",
-      "categoria": "Games",
-      "preco": 106.02,
-      "preco_pix": 74.21,
-      "preco_antigo": 106.02,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/284352/jogo-uncharted-colecao-legado-dos-ladroes-ps5_1639077604_g.jpg",
-      "link": "https://tidd.ly/4jlHcJm",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Death Stranding 2 – PS5",
-      "categoria": "Games",
-      "preco": 212.97,
-      "preco_pix": 149.08,
-      "preco_antigo": 212.97,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/726389/jogo-death-stranding-2-on-the-beach-ps5-1000047637_1742926272_g.jpg",
-      "link": "https://tidd.ly/493ByqF",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Death Stranding Versão do Diretor – PS5",
-      "categoria": "Games",
-      "preco": 106.02,
-      "preco_pix": 74.21,
-      "preco_antigo": 106.02,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/213175/jogo-death-stranding-versao-do-diretor-ps5_1629752057_g.jpg",
-      "link": "https://tidd.ly/4jbUl7G",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Returnal – PS5",
-      "categoria": "Games",
-      "preco": 157.17,
-      "preco_pix": 110.02,
-      "preco_antigo": 157.17,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/137397/jogo-returnal-ps5_1659039150_g.jpg",
-      "link": "https://tidd.ly/4j4V1gn",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo The Last of Us Part II – PS4",
-      "categoria": "Games",
-      "preco": 106.02,
-      "preco_pix": 74.21,
-      "preco_antigo": 106.02,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/107331/jogo-the-last-of-us-part-ii-ps4_1659030888_g.jpg",
-      "link": "https://tidd.ly/4zQXLTM",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo The Last of Us Remastered – PS4",
-      "categoria": "Games",
-      "preco": 54.87,
-      "preco_pix": 38.41,
-      "preco_antigo": 54.87,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/100289/100289_1549629091_index_g.jpg",
-      "link": "https://tidd.ly/4j8nPDe",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Kirby Air Riders – Nintendo Switch 2",
-      "categoria": "Games",
-      "preco": 426.2,
-      "preco_pix": 298.34,
-      "preco_antigo": 426.2,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/948402/jogo-kirby-air-riders-nintendo-switch-2-edition-nt000058nsw_1762428182_g.jpg",
-      "link": "https://tidd.ly/4Cs8yWM",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Elden Ring: Tarnished Edition – Nintendo Switch 2",
-      "categoria": "Games",
-      "preco": 449.1,
-      "preco_pix": 314.37,
-      "preco_antigo": 449.1,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/1065226/jogo-elden-ring-tarnished-edition-nintendo-switch-2-nsca10000043fgr_1790766302_g.jpg",
-      "link": "https://tidd.ly/4zKW0Hq",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Splatoon Raiders – Nintendo Switch 2",
-      "categoria": "Games",
-      "preco": 352.47,
-      "preco_pix": 246.73,
-      "preco_antigo": 352.47,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/1041741/jogo-splatoon-raiders-para-ns2-nsca10000029fgr_1781525623_g.jpg",
-      "link": "https://tidd.ly/4AUVFTs",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Onimusha: Way of the Sword – Nintendo Switch 2",
-      "categoria": "Games",
-      "preco": 341.91,
-      "preco_pix": 239.34,
-      "preco_antigo": 341.91,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/1062465/jogo-onimusha-way-of-the-sword-nintendo-switch-2-nsca10000042fgr_1786014224_g.jpg",
-      "link": "https://tidd.ly/4APHUWm",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Granblue Fantasy Relink: Endless Ragnarok – Nintendo Switch 2",
-      "categoria": "Games",
-      "preco": 332.1,
-      "preco_pix": 232.47,
-      "preco_antigo": 332.1,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/1060744/jogo-granblue-fantasy-relink-endless-ragnarok-nintendo-switch-2-nsca10000031fgr_1787828324_g.jpg",
-      "link": "https://tidd.ly/3Vf3YdG",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Final Fantasy VII Rebirth – Nintendo Switch 2",
-      "categoria": "Games",
-      "preco": 266.64,
-      "preco_pix": 186.65,
-      "preco_antigo": 266.64,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/1038260/jogo-final-fantasy-vii-rebirth-standard-edition-nintendo-switch-2-nsca10000027fgr_1778864590_g.jpg",
-      "link": "https://tidd.ly/4jCzL1D",
-      "destaque": false,
-      "grupo": "jogatudo"
-    },
-    {
-      "titulo": "Jogo Minecraft – Nintendo Switch 2",
-      "categoria": "Games",
-      "preco": 185.07,
-      "preco_pix": 129.55,
-      "preco_antigo": 185.07,
-      "loja": "KaBuM!",
-      "obs": "Cupom JOGATUDO (30% OFF, ative na página do produto). Oferta válida enquanto durarem os estoques. Sujeito a disponibilidade do lote de cupons.",
-      "imagem": "https://images.kabum.com.br/produtos/fotos/1072049/jogo-minecraft-nintendo-switch-2-nsca10000079fgr_1790188408_g.jpg",
-      "link": "https://tidd.ly/4zOqqIX",
-      "destaque": false,
-      "grupo": "jogatudo"
     }
   ],
-  "grupos": [
-    {
-      "id": "jogatudo",
-      "titulo": "🎮 Jogos com 30% OFF na KaBuM",
-      "sub": "Cupom JOGATUDO — aparece na página do jogo. Preço no Pix já com o cupom."
-    }
-  ]
+  "grupos": []
 }
