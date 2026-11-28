@@ -9,6 +9,43 @@
   },
   "ofertas": [
     {
+      "titulo": "Notebook Gamer Acer Nitro V16 – Core 7 240H, RTX 5060 8GB, 16GB, SSD 512GB, 16\" WUXGA 165Hz",
+      "categoria": "Notebooks",
+      "preco": 6756.64,
+      "preco_antigo": 10999.0,
+      "loja": "Acer (loja oficial na Amazon)",
+      "obs": "Vendido e entregue pela Acer Brasil. Vem com Linux.",
+      "imagem": "https://m.media-amazon.com/images/I/51B0zB2pkrL._AC_SL1000_.jpg",
+      "link": "https://link.amazon/B09MAL9IP",
+      "destaque": true,
+      "atalho": 27
+    },
+    {
+      "titulo": "Monitor Gamer Dell 27\" Full HD 240Hz IPS 0,5ms (SE2726HG)",
+      "categoria": "Monitores",
+      "preco": 1099.0,
+      "preco_pix": 824.25,
+      "preco_antigo": 1249.0,
+      "loja": "Amazon",
+      "obs": "Preço com o cupom 25IMPERDIVEL (25% OFF, exclusivo Prime — resgate na página do produto).",
+      "imagem": "https://m.media-amazon.com/images/I/81bCXJDN6ML._AC_SL1000_.jpg",
+      "link": "https://link.amazon/B0hQ49bll",
+      "destaque": true,
+      "atalho": 28
+    },
+    {
+      "titulo": "Samsung Galaxy S26 Ultra 5G 256GB 12GB RAM",
+      "categoria": "Celulares",
+      "preco": 6298.88,
+      "preco_antigo": 11499.0,
+      "loja": "Amazon",
+      "obs": "Membros Prime: resgate o cupom 25IMPERDIVEL na página do produto para desconto extra.",
+      "imagem": "https://m.media-amazon.com/images/I/61tUK0-AiTL._AC_SL1000_.jpg",
+      "link": "https://link.amazon/B0aKkFrEU",
+      "destaque": true,
+      "atalho": 29
+    },
+    {
       "titulo": "Processador AMD Ryzen 7 5800X3D – 8 núcleos/16 threads, 3D V-Cache, AM4",
       "categoria": "Processadores",
       "preco": 2235.2,
